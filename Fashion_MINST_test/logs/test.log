@@ -1,0 +1,104 @@
+2024-11-18 09:01:06,225 - Running CNN_S model Experiment...
+2024-11-18 09:05:35,278 - Running CNN model Experiment...
+2024-11-18 09:05:52,405 - Epoch [1/3], Step [100/118], Loss: 2.2901
+2024-11-18 09:06:11,921 - Epoch [2/3], Step [100/118], Loss: 2.2718
+2024-11-18 09:06:31,089 - Epoch [3/3], Step [100/118], Loss: 2.2441
+2024-11-18 09:06:36,532 - Accuracy of the model_CNN on the 10000 test images: 18.59%
+2024-11-18 09:06:36,597 - Running CNN_S model Experiment...
+2024-11-18 09:06:52,920 - Epoch [1/3], Step [100/118], Loss: 2.3027
+2024-11-18 09:07:12,160 - Epoch [2/3], Step [100/118], Loss: 2.3035
+2024-11-18 09:07:31,294 - Epoch [3/3], Step [100/118], Loss: 2.3056
+2024-11-18 09:07:36,767 - Accuracy of the model_CNN_S on the 10000 test images: 10.0%
+2024-11-18 09:16:38,084 - Running CNN model Experiment...
+2024-11-18 09:17:18,051 - Running CNN model Experiment...
+2024-11-18 09:17:37,535 - Epoch [1/3], Step [100/354], Loss: 2.2916
+2024-11-18 09:18:00,913 - Epoch [2/3], Step [100/354], Loss: 2.2849
+2024-11-18 09:18:23,040 - Epoch [3/3], Step [100/354], Loss: 2.2641
+2024-11-18 09:18:30,128 - Accuracy of the model_CNN on the 10000 test images: 19.29%
+2024-11-18 09:18:30,201 - Running CNN_S model Experiment...
+2024-11-18 09:20:02,905 - Running CNN model Experiment...
+2024-11-18 09:20:20,906 - Epoch [1/3], Step [100/118], Loss: 2.2929
+2024-11-18 09:20:23,736 - Epoch [1/3], Step [118/118], Loss: 2.2967
+2024-11-18 09:20:41,819 - Epoch [2/3], Step [100/118], Loss: 2.2853
+2024-11-18 09:20:44,809 - Epoch [2/3], Step [118/118], Loss: 2.2861
+2024-11-18 09:21:06,068 - Epoch [3/3], Step [100/118], Loss: 2.2742
+2024-11-18 09:21:09,127 - Epoch [3/3], Step [118/118], Loss: 2.2735
+2024-11-18 09:21:12,143 - Accuracy of the model_CNN on the 10000 test images: 35.39%
+2024-11-18 09:21:12,223 - Running CNN_S model Experiment...
+2024-11-18 09:21:29,947 - Epoch [1/3], Step [100/118], Loss: 2.3114
+2024-11-18 09:21:32,908 - Epoch [1/3], Step [118/118], Loss: 2.3199
+2024-11-18 09:21:53,906 - Epoch [2/3], Step [100/118], Loss: 2.3130
+2024-11-18 09:21:57,648 - Epoch [2/3], Step [118/118], Loss: 2.2969
+2024-11-18 09:22:16,729 - Epoch [3/3], Step [100/118], Loss: 2.3050
+2024-11-18 09:22:20,065 - Epoch [3/3], Step [118/118], Loss: 2.3023
+2024-11-18 09:22:23,487 - Accuracy of the model_CNN_S on the 10000 test images: 10.0%
+2024-11-18 09:26:11,866 - Running CNN model Experiment...
+2024-11-18 09:26:31,940 - Epoch [1/3], Step [100/118], Loss: 2.2929
+2024-11-18 09:26:35,698 - Epoch [1/3], Step [118/118], Loss: 2.2968
+2024-11-18 09:26:38,908 - Accuracy of the model_CNN on the test images after Epoch [1/3]: 18.62%
+2024-11-18 09:26:59,828 - Epoch [2/3], Step [100/118], Loss: 2.2836
+2024-11-18 09:27:03,976 - Epoch [2/3], Step [118/118], Loss: 2.2727
+2024-11-18 09:27:07,441 - Accuracy of the model_CNN on the test images after Epoch [2/3]: 21.78%
+2024-11-18 09:27:29,946 - Epoch [3/3], Step [100/118], Loss: 2.2638
+2024-11-18 09:27:33,319 - Epoch [3/3], Step [118/118], Loss: 2.2521
+2024-11-18 09:27:36,614 - Accuracy of the model_CNN on the test images after Epoch [3/3]: 27.47%
+2024-11-18 09:27:40,223 - Accuracy of the model_CNN on the 10000 test images: 27.47%
+2024-11-18 09:27:40,223 - Training complete.
+2024-11-18 09:27:40,283 - Running CNN_S model Experiment...
+2024-11-18 09:28:07,999 - Running CNN model Experiment...
+2024-11-18 09:28:31,498 - Epoch [1/3], Step [86/86], Loss: 2.2963
+2024-11-18 09:28:35,050 - Accuracy of the model_CNN on the test images after Epoch [1/3]: 20.48%
+2024-11-18 09:28:59,116 - Epoch [2/3], Step [86/86], Loss: 2.2801
+2024-11-18 09:29:02,321 - Accuracy of the model_CNN on the test images after Epoch [2/3]: 32.08%
+2024-11-18 09:29:28,037 - Epoch [3/3], Step [86/86], Loss: 2.2699
+2024-11-18 09:29:31,311 - Accuracy of the model_CNN on the test images after Epoch [3/3]: 36.48%
+2024-11-18 09:29:34,803 - Accuracy of the model_CNN on the 10000 test images: 36.48%
+2024-11-18 09:29:34,803 - Training complete.
+2024-11-18 09:29:34,886 - Running CNN_S model Experiment...
+2024-11-18 09:30:01,028 - Epoch [1/3], Step [86/86], Loss: 2.3346
+2024-11-18 09:30:04,871 - Accuracy of the model_CNN_S on the test images after Epoch [1/3]: 10.00%
+2024-11-18 09:37:12,422 - Running CNN model Experiment...
+2024-11-18 09:37:36,076 - Epoch [1/3], Step [86/86], Loss: 2.3003
+2024-11-18 09:37:39,963 - Accuracy of the model_CNN on the test images after Epoch [1/3]: 9.39%
+2024-11-18 09:38:05,634 - Epoch [2/3], Step [86/86], Loss: 2.2926
+2024-11-18 09:38:08,846 - Accuracy of the model_CNN on the test images after Epoch [2/3]: 11.80%
+2024-11-18 09:38:34,384 - Epoch [3/3], Step [86/86], Loss: 2.2850
+2024-11-18 09:38:37,456 - Accuracy of the model_CNN on the test images after Epoch [3/3]: 15.60%
+2024-11-18 09:38:40,806 - Final Accuracy of the model_CNN on the 10000 test images: 15.60%
+2024-11-18 09:38:40,807 - Training complete.
+2024-11-18 09:38:40,840 - Running CNN_S model Experiment...
+2024-11-18 09:39:06,452 - Epoch [1/3], Step [86/86], Loss: 2.3271
+2024-11-18 09:39:09,948 - Accuracy of the model_CNN_S on the test images after Epoch [1/3]: 10.00%
+2024-11-18 09:39:35,544 - Epoch [2/3], Step [86/86], Loss: 2.3082
+2024-11-18 09:39:39,103 - Accuracy of the model_CNN_S on the test images after Epoch [2/3]: 10.00%
+2024-11-18 09:40:03,923 - Epoch [3/3], Step [86/86], Loss: 2.3105
+2024-11-18 09:40:07,191 - Accuracy of the model_CNN_S on the test images after Epoch [3/3]: 10.00%
+2024-11-18 09:40:11,077 - Final Accuracy of the model_CNN_S on the 10000 test images: 10.00%
+2024-11-18 09:40:11,077 - Training complete.
+2024-11-18 09:46:25,463 - Running CNN model Experiment with SGD optimizer...
+2024-11-18 09:46:51,438 - Epoch [1/3], Step [86/86], Loss: 2.2886
+2024-11-18 09:46:55,055 - Accuracy of the model_CNN on the test images after Epoch [1/3]: 16.99%
+2024-11-18 09:47:19,997 - Epoch [2/3], Step [86/86], Loss: 2.2757
+2024-11-18 09:47:23,383 - Accuracy of the model_CNN on the test images after Epoch [2/3]: 21.35%
+2024-11-18 09:47:47,929 - Epoch [3/3], Step [86/86], Loss: 2.2670
+2024-11-18 09:47:51,320 - Accuracy of the model_CNN on the test images after Epoch [3/3]: 26.72%
+2024-11-18 09:47:55,327 - Final Accuracy of the model_CNN on the 10000 test images: 26.72% with SGD optimizer
+2024-11-18 09:47:55,327 - Training complete.
+2024-11-18 09:47:55,384 - Running CNN_L model Experiment with RMSprop optimizer...
+2024-11-18 09:48:20,514 - Epoch [1/3], Step [86/86], Loss: 0.3642
+2024-11-18 09:48:23,837 - Accuracy of the model_CNN_L on the test images after Epoch [1/3]: 81.58%
+2024-11-18 09:48:50,450 - Epoch [2/3], Step [86/86], Loss: 0.3285
+2024-11-18 09:48:53,874 - Accuracy of the model_CNN_L on the test images after Epoch [2/3]: 85.62%
+2024-11-18 09:49:19,870 - Epoch [3/3], Step [86/86], Loss: 0.3519
+2024-11-18 09:49:23,251 - Accuracy of the model_CNN_L on the test images after Epoch [3/3]: 86.16%
+2024-11-18 09:49:26,782 - Final Accuracy of the model_CNN_L on the 10000 test images: 86.16% with RMSprop optimizer
+2024-11-18 09:49:26,782 - Training complete.
+2024-11-18 09:49:26,841 - Running CNN_S model Experiment with Adam optimizer...
+2024-11-18 09:49:52,859 - Epoch [1/3], Step [86/86], Loss: 1.0373
+2024-11-18 09:49:56,175 - Accuracy of the model_CNN_S on the test images after Epoch [1/3]: 67.08%
+2024-11-18 09:50:22,405 - Epoch [2/3], Step [86/86], Loss: 0.7686
+2024-11-18 09:50:26,226 - Accuracy of the model_CNN_S on the test images after Epoch [2/3]: 73.17%
+2024-11-18 09:50:52,085 - Epoch [3/3], Step [86/86], Loss: 0.6590
+2024-11-18 09:50:55,390 - Accuracy of the model_CNN_S on the test images after Epoch [3/3]: 76.22%
+2024-11-18 09:50:58,918 - Final Accuracy of the model_CNN_S on the 10000 test images: 76.22% with Adam optimizer
+2024-11-18 09:50:58,919 - Training complete.

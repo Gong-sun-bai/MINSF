@@ -1,0 +1,50 @@
+2024-11-16 11:07:01,070 - Running Expanded Dataset Experiment...
+2024-11-16 11:07:01,071 - Run 1/1
+2024-11-16 11:07:02,658 - [Expanded-Dataset] Epoch [1/2], Loss: 0.6412, Accuracy: 73.80%
+2024-11-16 11:07:03,816 - [Expanded-Dataset] Epoch [2/2], Loss: 0.1823, Accuracy: 93.60%
+2024-11-16 11:07:04,134 - Expanded_dataset Test Accuracy: 93.40%
+2024-11-16 11:07:04,417 - Running LeakyReLU Experiment...
+2024-11-16 11:07:04,417 - Run 1/1
+2024-11-16 11:07:04,616 - [LeakyReLU] Epoch [1/2], Loss: 1.3051, Accuracy: 52.00%
+2024-11-16 11:07:04,824 - [LeakyReLU] Epoch [2/2], Loss: 0.4675, Accuracy: 80.00%
+2024-11-16 11:07:05,133 - Leaky_relu Test Accuracy: 69.70%
+2024-11-16 11:07:05,382 - Running AlexNet Transfer Experiment...
+2024-11-16 11:07:05,382 - Run 1/1
+2024-11-16 11:08:00,249 - [Transfer] Epoch [1/2], Loss: 1.6386, Accuracy: 21.25%
+2024-11-16 11:08:55,201 - [Transfer] Epoch [2/2], Loss: 1.6103, Accuracy: 19.92%
+2024-11-16 11:08:55,568 - [Transfer] Epoch [1/2], Loss: 1.6298, Accuracy: 16.00%
+2024-11-16 11:08:55,910 - [Transfer] Epoch [2/2], Loss: 1.6256, Accuracy: 9.00%
+2024-11-16 11:08:57,396 - Alexnet_transfer Test Accuracy: 20.00%
+2024-11-16 11:08:57,605 - Running Non-Transfer Experiment...
+2024-11-16 11:08:57,605 - Run 1/1
+2024-11-16 11:36:11,988 - Running Non-Transfer Experiment...
+2024-11-16 11:36:11,989 - Run 1/1
+2024-11-16 11:36:12,199 - Starting non-transfer training (run 1)...
+2024-11-16 11:36:12,735 - [Non-Transfer] Epoch [1/2], Loss: 1.4054, Accuracy: 45.00%
+2024-11-16 11:36:12,891 - [Non-Transfer] Epoch [2/2], Loss: 0.5405, Accuracy: 87.00%
+2024-11-16 11:36:13,149 - Non_transfer Test Accuracy: 77.70%
+2024-11-16 11:36:13,359 - Running Transfer Experiment...
+2024-11-16 11:36:13,359 - Run 1/1
+2024-11-16 11:36:13,360 - Starting transfer learning (run 1)...
+2024-11-16 11:36:20,728 - [Transfer] Epoch [1/2], Loss: 0.1654, Accuracy: 95.13%
+2024-11-16 11:36:28,126 - [Transfer] Epoch [2/2], Loss: 0.0337, Accuracy: 98.96%
+2024-11-16 11:36:28,251 - [Transfer] Epoch [1/2], Loss: 0.8281, Accuracy: 72.00%
+2024-11-16 11:36:28,375 - [Transfer] Epoch [2/2], Loss: 0.2694, Accuracy: 93.00%
+2024-11-16 11:36:28,629 - Transfer Test Accuracy: 89.00%
+2024-11-16 11:36:28,826 - Running Expanded Dataset Experiment...
+2024-11-16 11:36:28,826 - Run 1/1
+2024-11-16 11:36:29,769 - [Expanded-Dataset] Epoch [1/2], Loss: 0.7185, Accuracy: 74.20%
+2024-11-16 11:36:30,961 - [Expanded-Dataset] Epoch [2/2], Loss: 0.2004, Accuracy: 94.60%
+2024-11-16 11:36:31,288 - Expanded_dataset Test Accuracy: 92.50%
+2024-11-16 11:36:31,566 - Running LeakyReLU Experiment...
+2024-11-16 11:36:31,566 - Run 1/1
+2024-11-16 11:36:31,771 - [LeakyReLU] Epoch [1/2], Loss: 1.4210, Accuracy: 50.00%
+2024-11-16 11:36:31,986 - [LeakyReLU] Epoch [2/2], Loss: 0.4776, Accuracy: 87.00%
+2024-11-16 11:36:32,312 - Leaky_relu Test Accuracy: 78.20%
+2024-11-16 11:36:32,578 - Running AlexNet Transfer Experiment...
+2024-11-16 11:36:32,579 - Run 1/1
+2024-11-16 11:37:29,456 - [Transfer] Epoch [1/2], Loss: 0.3837, Accuracy: 86.68%
+2024-11-16 11:38:24,681 - [Transfer] Epoch [2/2], Loss: 0.0627, Accuracy: 98.28%
+2024-11-16 11:38:25,052 - [Transfer] Epoch [1/2], Loss: 2.0092, Accuracy: 46.00%
+2024-11-16 11:38:25,391 - [Transfer] Epoch [2/2], Loss: 0.7429, Accuracy: 72.00%
+2024-11-16 11:38:26,865 - Alexnet_transfer Test Accuracy: 75.00%

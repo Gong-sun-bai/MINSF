@@ -1,0 +1,826 @@
+2024-11-18 09:00:29,558 - Running Non-Transfer Experiment...
+2024-11-18 09:00:29,558 - Run 1/10
+2024-11-18 09:00:29,769 - Starting non-transfer training (run 1)...
+2024-11-18 09:00:30,323 - [Non-Transfer] Epoch [1/10], Loss: 1.6252, Accuracy: 30.00%
+2024-11-18 09:00:30,502 - [Non-Transfer] Epoch [2/10], Loss: 0.8675, Accuracy: 79.00%
+2024-11-18 09:00:30,712 - [Non-Transfer] Epoch [3/10], Loss: 0.3411, Accuracy: 89.00%
+2024-11-18 09:00:30,943 - [Non-Transfer] Epoch [4/10], Loss: 0.2034, Accuracy: 95.00%
+2024-11-18 09:00:31,174 - [Non-Transfer] Epoch [5/10], Loss: 0.1394, Accuracy: 99.00%
+2024-11-18 09:00:31,418 - [Non-Transfer] Epoch [6/10], Loss: 0.0752, Accuracy: 99.00%
+2024-11-18 09:00:31,664 - [Non-Transfer] Epoch [7/10], Loss: 0.0581, Accuracy: 99.00%
+2024-11-18 09:00:31,908 - [Non-Transfer] Epoch [8/10], Loss: 0.0479, Accuracy: 99.00%
+2024-11-18 09:00:32,154 - [Non-Transfer] Epoch [9/10], Loss: 0.0163, Accuracy: 100.00%
+2024-11-18 09:00:32,394 - [Non-Transfer] Epoch [10/10], Loss: 0.0095, Accuracy: 100.00%
+2024-11-18 09:00:32,722 - Non_transfer Test Accuracy: 83.40%
+2024-11-18 09:00:33,027 - Run 2/10
+2024-11-18 09:00:33,029 - Starting non-transfer training (run 2)...
+2024-11-18 09:00:33,235 - [Non-Transfer] Epoch [1/10], Loss: 1.6036, Accuracy: 30.00%
+2024-11-18 09:00:33,462 - [Non-Transfer] Epoch [2/10], Loss: 0.7759, Accuracy: 83.00%
+2024-11-18 09:00:33,697 - [Non-Transfer] Epoch [3/10], Loss: 0.4060, Accuracy: 87.00%
+2024-11-18 09:00:33,936 - [Non-Transfer] Epoch [4/10], Loss: 0.1903, Accuracy: 96.00%
+2024-11-18 09:00:34,181 - [Non-Transfer] Epoch [5/10], Loss: 0.1558, Accuracy: 95.00%
+2024-11-18 09:00:34,427 - [Non-Transfer] Epoch [6/10], Loss: 0.0747, Accuracy: 99.00%
+2024-11-18 09:00:34,668 - [Non-Transfer] Epoch [7/10], Loss: 0.0385, Accuracy: 100.00%
+2024-11-18 09:00:34,913 - [Non-Transfer] Epoch [8/10], Loss: 0.0410, Accuracy: 99.00%
+2024-11-18 09:00:35,158 - [Non-Transfer] Epoch [9/10], Loss: 0.0143, Accuracy: 100.00%
+2024-11-18 09:00:35,404 - [Non-Transfer] Epoch [10/10], Loss: 0.0069, Accuracy: 100.00%
+2024-11-18 09:00:35,727 - Non_transfer Test Accuracy: 84.50%
+2024-11-18 09:00:36,008 - Run 3/10
+2024-11-18 09:00:36,010 - Starting non-transfer training (run 3)...
+2024-11-18 09:00:36,215 - [Non-Transfer] Epoch [1/10], Loss: 1.4780, Accuracy: 41.00%
+2024-11-18 09:00:36,445 - [Non-Transfer] Epoch [2/10], Loss: 0.5905, Accuracy: 81.00%
+2024-11-18 09:00:36,686 - [Non-Transfer] Epoch [3/10], Loss: 0.3097, Accuracy: 92.00%
+2024-11-18 09:00:36,926 - [Non-Transfer] Epoch [4/10], Loss: 0.1810, Accuracy: 95.00%
+2024-11-18 09:00:37,171 - [Non-Transfer] Epoch [5/10], Loss: 0.1089, Accuracy: 98.00%
+2024-11-18 09:00:37,415 - [Non-Transfer] Epoch [6/10], Loss: 0.0433, Accuracy: 99.00%
+2024-11-18 09:00:37,660 - [Non-Transfer] Epoch [7/10], Loss: 0.0332, Accuracy: 99.00%
+2024-11-18 09:00:37,905 - [Non-Transfer] Epoch [8/10], Loss: 0.0199, Accuracy: 100.00%
+2024-11-18 09:00:38,146 - [Non-Transfer] Epoch [9/10], Loss: 0.0095, Accuracy: 100.00%
+2024-11-18 09:00:38,397 - [Non-Transfer] Epoch [10/10], Loss: 0.0064, Accuracy: 100.00%
+2024-11-18 09:00:38,721 - Non_transfer Test Accuracy: 84.60%
+2024-11-18 09:00:38,991 - Run 4/10
+2024-11-18 09:00:38,993 - Starting non-transfer training (run 4)...
+2024-11-18 09:00:39,194 - [Non-Transfer] Epoch [1/10], Loss: 1.5666, Accuracy: 38.00%
+2024-11-18 09:00:39,412 - [Non-Transfer] Epoch [2/10], Loss: 0.6929, Accuracy: 81.00%
+2024-11-18 09:00:39,650 - [Non-Transfer] Epoch [3/10], Loss: 0.2930, Accuracy: 92.00%
+2024-11-18 09:00:39,896 - [Non-Transfer] Epoch [4/10], Loss: 0.1553, Accuracy: 96.00%
+2024-11-18 09:00:40,141 - [Non-Transfer] Epoch [5/10], Loss: 0.1200, Accuracy: 98.00%
+2024-11-18 09:00:40,382 - [Non-Transfer] Epoch [6/10], Loss: 0.0407, Accuracy: 100.00%
+2024-11-18 09:00:40,627 - [Non-Transfer] Epoch [7/10], Loss: 0.0266, Accuracy: 100.00%
+2024-11-18 09:00:40,872 - [Non-Transfer] Epoch [8/10], Loss: 0.0147, Accuracy: 100.00%
+2024-11-18 09:00:41,117 - [Non-Transfer] Epoch [9/10], Loss: 0.0082, Accuracy: 100.00%
+2024-11-18 09:00:41,361 - [Non-Transfer] Epoch [10/10], Loss: 0.0061, Accuracy: 100.00%
+2024-11-18 09:00:41,682 - Non_transfer Test Accuracy: 84.70%
+2024-11-18 09:00:41,957 - Run 5/10
+2024-11-18 09:00:41,959 - Starting non-transfer training (run 5)...
+2024-11-18 09:00:42,162 - [Non-Transfer] Epoch [1/10], Loss: 1.4125, Accuracy: 41.00%
+2024-11-18 09:00:42,381 - [Non-Transfer] Epoch [2/10], Loss: 0.5176, Accuracy: 84.00%
+2024-11-18 09:00:42,614 - [Non-Transfer] Epoch [3/10], Loss: 0.1754, Accuracy: 95.00%
+2024-11-18 09:00:42,858 - [Non-Transfer] Epoch [4/10], Loss: 0.1582, Accuracy: 96.00%
+2024-11-18 09:00:43,125 - [Non-Transfer] Epoch [5/10], Loss: 0.0720, Accuracy: 99.00%
+2024-11-18 09:00:43,419 - [Non-Transfer] Epoch [6/10], Loss: 0.0265, Accuracy: 99.00%
+2024-11-18 09:00:43,712 - [Non-Transfer] Epoch [7/10], Loss: 0.0198, Accuracy: 100.00%
+2024-11-18 09:00:44,010 - [Non-Transfer] Epoch [8/10], Loss: 0.0080, Accuracy: 100.00%
+2024-11-18 09:00:44,310 - [Non-Transfer] Epoch [9/10], Loss: 0.0055, Accuracy: 100.00%
+2024-11-18 09:00:44,622 - [Non-Transfer] Epoch [10/10], Loss: 0.0043, Accuracy: 100.00%
+2024-11-18 09:00:44,956 - Non_transfer Test Accuracy: 83.80%
+2024-11-18 09:00:45,224 - Run 6/10
+2024-11-18 09:00:45,226 - Starting non-transfer training (run 6)...
+2024-11-18 09:00:45,455 - [Non-Transfer] Epoch [1/10], Loss: 1.4698, Accuracy: 38.00%
+2024-11-18 09:00:45,731 - [Non-Transfer] Epoch [2/10], Loss: 0.5653, Accuracy: 85.00%
+2024-11-18 09:00:46,020 - [Non-Transfer] Epoch [3/10], Loss: 0.3118, Accuracy: 91.00%
+2024-11-18 09:00:46,328 - [Non-Transfer] Epoch [4/10], Loss: 0.1654, Accuracy: 94.00%
+2024-11-18 09:00:46,643 - [Non-Transfer] Epoch [5/10], Loss: 0.0803, Accuracy: 99.00%
+2024-11-18 09:00:46,958 - [Non-Transfer] Epoch [6/10], Loss: 0.0449, Accuracy: 100.00%
+2024-11-18 09:00:47,262 - [Non-Transfer] Epoch [7/10], Loss: 0.0338, Accuracy: 99.00%
+2024-11-18 09:00:47,578 - [Non-Transfer] Epoch [8/10], Loss: 0.0127, Accuracy: 100.00%
+2024-11-18 09:00:47,892 - [Non-Transfer] Epoch [9/10], Loss: 0.0085, Accuracy: 100.00%
+2024-11-18 09:00:48,205 - [Non-Transfer] Epoch [10/10], Loss: 0.0058, Accuracy: 100.00%
+2024-11-18 09:00:48,532 - Non_transfer Test Accuracy: 84.30%
+2024-11-18 09:00:48,801 - Run 7/10
+2024-11-18 09:00:48,802 - Starting non-transfer training (run 7)...
+2024-11-18 09:00:49,031 - [Non-Transfer] Epoch [1/10], Loss: 1.2977, Accuracy: 54.00%
+2024-11-18 09:00:49,310 - [Non-Transfer] Epoch [2/10], Loss: 0.4738, Accuracy: 81.00%
+2024-11-18 09:00:49,603 - [Non-Transfer] Epoch [3/10], Loss: 0.2143, Accuracy: 94.00%
+2024-11-18 09:00:49,910 - [Non-Transfer] Epoch [4/10], Loss: 0.1336, Accuracy: 97.00%
+2024-11-18 09:00:50,218 - [Non-Transfer] Epoch [5/10], Loss: 0.1245, Accuracy: 98.00%
+2024-11-18 09:00:50,521 - [Non-Transfer] Epoch [6/10], Loss: 0.0649, Accuracy: 97.00%
+2024-11-18 09:00:50,828 - [Non-Transfer] Epoch [7/10], Loss: 0.0181, Accuracy: 100.00%
+2024-11-18 09:00:51,144 - [Non-Transfer] Epoch [8/10], Loss: 0.0084, Accuracy: 100.00%
+2024-11-18 09:00:51,459 - [Non-Transfer] Epoch [9/10], Loss: 0.0058, Accuracy: 100.00%
+2024-11-18 09:00:51,764 - [Non-Transfer] Epoch [10/10], Loss: 0.0043, Accuracy: 100.00%
+2024-11-18 09:00:52,095 - Non_transfer Test Accuracy: 84.00%
+2024-11-18 09:00:52,349 - Run 8/10
+2024-11-18 09:00:52,351 - Starting non-transfer training (run 8)...
+2024-11-18 09:00:52,582 - [Non-Transfer] Epoch [1/10], Loss: 1.5059, Accuracy: 38.00%
+2024-11-18 09:00:52,855 - [Non-Transfer] Epoch [2/10], Loss: 0.6338, Accuracy: 80.00%
+2024-11-18 09:00:53,155 - [Non-Transfer] Epoch [3/10], Loss: 0.2883, Accuracy: 93.00%
+2024-11-18 09:00:53,455 - [Non-Transfer] Epoch [4/10], Loss: 0.1446, Accuracy: 95.00%
+2024-11-18 09:00:53,755 - [Non-Transfer] Epoch [5/10], Loss: 0.1073, Accuracy: 98.00%
+2024-11-18 09:00:54,049 - [Non-Transfer] Epoch [6/10], Loss: 0.0547, Accuracy: 100.00%
+2024-11-18 09:00:54,349 - [Non-Transfer] Epoch [7/10], Loss: 0.0328, Accuracy: 99.00%
+2024-11-18 09:00:54,650 - [Non-Transfer] Epoch [8/10], Loss: 0.0150, Accuracy: 100.00%
+2024-11-18 09:00:54,951 - [Non-Transfer] Epoch [9/10], Loss: 0.0081, Accuracy: 100.00%
+2024-11-18 09:00:55,245 - [Non-Transfer] Epoch [10/10], Loss: 0.0065, Accuracy: 100.00%
+2024-11-18 09:00:55,575 - Non_transfer Test Accuracy: 83.50%
+2024-11-18 09:00:56,000 - Run 9/10
+2024-11-18 09:00:56,002 - Starting non-transfer training (run 9)...
+2024-11-18 09:00:56,230 - [Non-Transfer] Epoch [1/10], Loss: 1.5219, Accuracy: 35.00%
+2024-11-18 09:00:56,504 - [Non-Transfer] Epoch [2/10], Loss: 0.7442, Accuracy: 78.00%
+2024-11-18 09:00:56,796 - [Non-Transfer] Epoch [3/10], Loss: 0.3837, Accuracy: 84.00%
+2024-11-18 09:00:57,096 - [Non-Transfer] Epoch [4/10], Loss: 0.2472, Accuracy: 93.00%
+2024-11-18 09:00:57,390 - [Non-Transfer] Epoch [5/10], Loss: 0.1270, Accuracy: 98.00%
+2024-11-18 09:00:57,696 - [Non-Transfer] Epoch [6/10], Loss: 0.0931, Accuracy: 98.00%
+2024-11-18 09:00:57,982 - [Non-Transfer] Epoch [7/10], Loss: 0.0432, Accuracy: 100.00%
+2024-11-18 09:00:58,253 - [Non-Transfer] Epoch [8/10], Loss: 0.0271, Accuracy: 100.00%
+2024-11-18 09:00:58,519 - [Non-Transfer] Epoch [9/10], Loss: 0.0144, Accuracy: 100.00%
+2024-11-18 09:00:58,773 - [Non-Transfer] Epoch [10/10], Loss: 0.0101, Accuracy: 100.00%
+2024-11-18 09:00:59,100 - Non_transfer Test Accuracy: 83.00%
+2024-11-18 09:00:59,369 - Run 10/10
+2024-11-18 09:00:59,370 - Starting non-transfer training (run 10)...
+2024-11-18 09:00:59,593 - [Non-Transfer] Epoch [1/10], Loss: 1.5813, Accuracy: 37.00%
+2024-11-18 09:00:59,867 - [Non-Transfer] Epoch [2/10], Loss: 0.6771, Accuracy: 83.00%
+2024-11-18 09:01:00,165 - [Non-Transfer] Epoch [3/10], Loss: 0.3279, Accuracy: 88.00%
+2024-11-18 09:01:00,465 - [Non-Transfer] Epoch [4/10], Loss: 0.1550, Accuracy: 98.00%
+2024-11-18 09:01:00,765 - [Non-Transfer] Epoch [5/10], Loss: 0.0986, Accuracy: 97.00%
+2024-11-18 09:01:01,058 - [Non-Transfer] Epoch [6/10], Loss: 0.0532, Accuracy: 99.00%
+2024-11-18 09:01:01,360 - [Non-Transfer] Epoch [7/10], Loss: 0.0487, Accuracy: 99.00%
+2024-11-18 09:01:01,661 - [Non-Transfer] Epoch [8/10], Loss: 0.0197, Accuracy: 100.00%
+2024-11-18 09:01:01,961 - [Non-Transfer] Epoch [9/10], Loss: 0.0092, Accuracy: 100.00%
+2024-11-18 09:01:02,257 - [Non-Transfer] Epoch [10/10], Loss: 0.0069, Accuracy: 100.00%
+2024-11-18 09:01:02,591 - Non_transfer Test Accuracy: 83.00%
+2024-11-18 09:01:02,863 - Running Transfer Experiment...
+2024-11-18 09:01:02,863 - Run 1/10
+2024-11-18 09:01:02,865 - Starting transfer learning (run 1)...
+2024-11-18 09:01:10,806 - [Transfer] Epoch [1/10], Loss: 0.1757, Accuracy: 94.86%
+2024-11-18 09:01:18,741 - [Transfer] Epoch [2/10], Loss: 0.0352, Accuracy: 98.98%
+2024-11-18 09:01:26,448 - [Transfer] Epoch [3/10], Loss: 0.0254, Accuracy: 99.22%
+2024-11-18 09:01:33,967 - [Transfer] Epoch [4/10], Loss: 0.0199, Accuracy: 99.36%
+2024-11-18 09:01:41,509 - [Transfer] Epoch [5/10], Loss: 0.0155, Accuracy: 99.53%
+2024-11-18 09:01:49,071 - [Transfer] Epoch [6/10], Loss: 0.0143, Accuracy: 99.51%
+2024-11-18 09:01:56,550 - [Transfer] Epoch [7/10], Loss: 0.0099, Accuracy: 99.66%
+2024-11-18 09:02:03,935 - [Transfer] Epoch [8/10], Loss: 0.0081, Accuracy: 99.77%
+2024-11-18 09:02:11,313 - [Transfer] Epoch [9/10], Loss: 0.0063, Accuracy: 99.82%
+2024-11-18 09:02:18,681 - [Transfer] Epoch [10/10], Loss: 0.0043, Accuracy: 99.88%
+2024-11-18 09:02:18,805 - [Transfer] Epoch [1/10], Loss: 1.0316, Accuracy: 62.00%
+2024-11-18 09:02:18,929 - [Transfer] Epoch [2/10], Loss: 0.1582, Accuracy: 95.00%
+2024-11-18 09:02:19,052 - [Transfer] Epoch [3/10], Loss: 0.0483, Accuracy: 100.00%
+2024-11-18 09:02:19,174 - [Transfer] Epoch [4/10], Loss: 0.0278, Accuracy: 100.00%
+2024-11-18 09:02:19,298 - [Transfer] Epoch [5/10], Loss: 0.0175, Accuracy: 100.00%
+2024-11-18 09:02:19,419 - [Transfer] Epoch [6/10], Loss: 0.0147, Accuracy: 100.00%
+2024-11-18 09:02:19,541 - [Transfer] Epoch [7/10], Loss: 0.0101, Accuracy: 100.00%
+2024-11-18 09:02:19,663 - [Transfer] Epoch [8/10], Loss: 0.0088, Accuracy: 100.00%
+2024-11-18 09:02:19,788 - [Transfer] Epoch [9/10], Loss: 0.0074, Accuracy: 100.00%
+2024-11-18 09:02:19,913 - [Transfer] Epoch [10/10], Loss: 0.0065, Accuracy: 100.00%
+2024-11-18 09:02:20,169 - Transfer Test Accuracy: 88.90%
+2024-11-18 09:02:20,380 - Run 2/10
+2024-11-18 09:02:20,381 - Starting transfer learning (run 2)...
+2024-11-18 09:02:27,698 - [Transfer] Epoch [1/10], Loss: 0.1670, Accuracy: 95.05%
+2024-11-18 09:02:35,013 - [Transfer] Epoch [2/10], Loss: 0.0348, Accuracy: 98.92%
+2024-11-18 09:02:42,358 - [Transfer] Epoch [3/10], Loss: 0.0240, Accuracy: 99.27%
+2024-11-18 09:02:49,724 - [Transfer] Epoch [4/10], Loss: 0.0197, Accuracy: 99.34%
+2024-11-18 09:02:57,034 - [Transfer] Epoch [5/10], Loss: 0.0166, Accuracy: 99.47%
+2024-11-18 09:03:04,368 - [Transfer] Epoch [6/10], Loss: 0.0123, Accuracy: 99.60%
+2024-11-18 09:03:11,682 - [Transfer] Epoch [7/10], Loss: 0.0106, Accuracy: 99.66%
+2024-11-18 09:03:18,990 - [Transfer] Epoch [8/10], Loss: 0.0091, Accuracy: 99.69%
+2024-11-18 09:03:26,304 - [Transfer] Epoch [9/10], Loss: 0.0062, Accuracy: 99.79%
+2024-11-18 09:03:33,628 - [Transfer] Epoch [10/10], Loss: 0.0066, Accuracy: 99.78%
+2024-11-18 09:03:33,751 - [Transfer] Epoch [1/10], Loss: 0.8927, Accuracy: 68.00%
+2024-11-18 09:03:33,872 - [Transfer] Epoch [2/10], Loss: 0.1670, Accuracy: 95.00%
+2024-11-18 09:03:33,993 - [Transfer] Epoch [3/10], Loss: 0.0515, Accuracy: 99.00%
+2024-11-18 09:03:34,115 - [Transfer] Epoch [4/10], Loss: 0.0269, Accuracy: 100.00%
+2024-11-18 09:03:34,236 - [Transfer] Epoch [5/10], Loss: 0.0173, Accuracy: 100.00%
+2024-11-18 09:03:34,359 - [Transfer] Epoch [6/10], Loss: 0.0144, Accuracy: 100.00%
+2024-11-18 09:03:34,480 - [Transfer] Epoch [7/10], Loss: 0.0105, Accuracy: 100.00%
+2024-11-18 09:03:34,601 - [Transfer] Epoch [8/10], Loss: 0.0088, Accuracy: 100.00%
+2024-11-18 09:03:34,723 - [Transfer] Epoch [9/10], Loss: 0.0077, Accuracy: 100.00%
+2024-11-18 09:03:34,845 - [Transfer] Epoch [10/10], Loss: 0.0064, Accuracy: 100.00%
+2024-11-18 09:03:35,099 - Transfer Test Accuracy: 91.40%
+2024-11-18 09:03:35,302 - Run 3/10
+2024-11-18 09:03:35,303 - Starting transfer learning (run 3)...
+2024-11-18 09:03:42,690 - [Transfer] Epoch [1/10], Loss: 0.1731, Accuracy: 94.62%
+2024-11-18 09:03:50,039 - [Transfer] Epoch [2/10], Loss: 0.0352, Accuracy: 98.94%
+2024-11-18 09:03:57,386 - [Transfer] Epoch [3/10], Loss: 0.0266, Accuracy: 99.21%
+2024-11-18 09:04:04,723 - [Transfer] Epoch [4/10], Loss: 0.0194, Accuracy: 99.40%
+2024-11-18 09:04:12,074 - [Transfer] Epoch [5/10], Loss: 0.0155, Accuracy: 99.51%
+2024-11-18 09:04:19,423 - [Transfer] Epoch [6/10], Loss: 0.0127, Accuracy: 99.62%
+2024-11-18 09:04:26,757 - [Transfer] Epoch [7/10], Loss: 0.0101, Accuracy: 99.70%
+2024-11-18 09:04:34,081 - [Transfer] Epoch [8/10], Loss: 0.0076, Accuracy: 99.75%
+2024-11-18 09:04:41,488 - [Transfer] Epoch [9/10], Loss: 0.0073, Accuracy: 99.77%
+2024-11-18 09:04:48,869 - [Transfer] Epoch [10/10], Loss: 0.0056, Accuracy: 99.83%
+2024-11-18 09:04:48,992 - [Transfer] Epoch [1/10], Loss: 1.0191, Accuracy: 71.00%
+2024-11-18 09:04:49,113 - [Transfer] Epoch [2/10], Loss: 0.1283, Accuracy: 97.00%
+2024-11-18 09:04:49,237 - [Transfer] Epoch [3/10], Loss: 0.0492, Accuracy: 99.00%
+2024-11-18 09:04:49,359 - [Transfer] Epoch [4/10], Loss: 0.0276, Accuracy: 100.00%
+2024-11-18 09:04:49,480 - [Transfer] Epoch [5/10], Loss: 0.0166, Accuracy: 100.00%
+2024-11-18 09:04:49,602 - [Transfer] Epoch [6/10], Loss: 0.0133, Accuracy: 100.00%
+2024-11-18 09:04:49,723 - [Transfer] Epoch [7/10], Loss: 0.0104, Accuracy: 100.00%
+2024-11-18 09:04:49,845 - [Transfer] Epoch [8/10], Loss: 0.0089, Accuracy: 100.00%
+2024-11-18 09:04:49,967 - [Transfer] Epoch [9/10], Loss: 0.0074, Accuracy: 100.00%
+2024-11-18 09:04:50,089 - [Transfer] Epoch [10/10], Loss: 0.0064, Accuracy: 100.00%
+2024-11-18 09:04:50,345 - Transfer Test Accuracy: 90.80%
+2024-11-18 09:04:50,552 - Run 4/10
+2024-11-18 09:04:50,553 - Starting transfer learning (run 4)...
+2024-11-18 09:04:57,889 - [Transfer] Epoch [1/10], Loss: 0.1550, Accuracy: 95.50%
+2024-11-18 09:05:05,231 - [Transfer] Epoch [2/10], Loss: 0.0326, Accuracy: 98.96%
+2024-11-18 09:05:12,572 - [Transfer] Epoch [3/10], Loss: 0.0237, Accuracy: 99.27%
+2024-11-18 09:05:19,907 - [Transfer] Epoch [4/10], Loss: 0.0188, Accuracy: 99.40%
+2024-11-18 09:05:27,266 - [Transfer] Epoch [5/10], Loss: 0.0135, Accuracy: 99.58%
+2024-11-18 09:05:34,704 - [Transfer] Epoch [6/10], Loss: 0.0117, Accuracy: 99.61%
+2024-11-18 09:05:42,438 - [Transfer] Epoch [7/10], Loss: 0.0085, Accuracy: 99.72%
+2024-11-18 09:05:50,362 - [Transfer] Epoch [8/10], Loss: 0.0070, Accuracy: 99.76%
+2024-11-18 09:05:58,449 - [Transfer] Epoch [9/10], Loss: 0.0052, Accuracy: 99.84%
+2024-11-18 09:06:06,173 - [Transfer] Epoch [10/10], Loss: 0.0043, Accuracy: 99.85%
+2024-11-18 09:06:06,292 - [Transfer] Epoch [1/10], Loss: 1.1189, Accuracy: 67.00%
+2024-11-18 09:06:06,412 - [Transfer] Epoch [2/10], Loss: 0.1671, Accuracy: 94.00%
+2024-11-18 09:06:06,534 - [Transfer] Epoch [3/10], Loss: 0.0589, Accuracy: 99.00%
+2024-11-18 09:06:06,664 - [Transfer] Epoch [4/10], Loss: 0.0298, Accuracy: 100.00%
+2024-11-18 09:06:06,794 - [Transfer] Epoch [5/10], Loss: 0.0185, Accuracy: 100.00%
+2024-11-18 09:06:06,927 - [Transfer] Epoch [6/10], Loss: 0.0152, Accuracy: 100.00%
+2024-11-18 09:06:07,057 - [Transfer] Epoch [7/10], Loss: 0.0114, Accuracy: 100.00%
+2024-11-18 09:06:07,187 - [Transfer] Epoch [8/10], Loss: 0.0096, Accuracy: 100.00%
+2024-11-18 09:06:07,312 - [Transfer] Epoch [9/10], Loss: 0.0076, Accuracy: 100.00%
+2024-11-18 09:06:07,440 - [Transfer] Epoch [10/10], Loss: 0.0067, Accuracy: 100.00%
+2024-11-18 09:06:07,706 - Transfer Test Accuracy: 90.80%
+2024-11-18 09:06:07,920 - Run 5/10
+2024-11-18 09:06:07,921 - Starting transfer learning (run 5)...
+2024-11-18 09:06:15,674 - [Transfer] Epoch [1/10], Loss: 0.1657, Accuracy: 95.07%
+2024-11-18 09:06:23,453 - [Transfer] Epoch [2/10], Loss: 0.0336, Accuracy: 98.95%
+2024-11-18 09:06:31,171 - [Transfer] Epoch [3/10], Loss: 0.0239, Accuracy: 99.25%
+2024-11-18 09:06:38,838 - [Transfer] Epoch [4/10], Loss: 0.0176, Accuracy: 99.45%
+2024-11-18 09:06:46,503 - [Transfer] Epoch [5/10], Loss: 0.0136, Accuracy: 99.55%
+2024-11-18 09:06:54,118 - [Transfer] Epoch [6/10], Loss: 0.0113, Accuracy: 99.62%
+2024-11-18 09:07:01,534 - [Transfer] Epoch [7/10], Loss: 0.0104, Accuracy: 99.67%
+2024-11-18 09:07:08,984 - [Transfer] Epoch [8/10], Loss: 0.0074, Accuracy: 99.77%
+2024-11-18 09:07:16,446 - [Transfer] Epoch [9/10], Loss: 0.0072, Accuracy: 99.78%
+2024-11-18 09:07:24,182 - [Transfer] Epoch [10/10], Loss: 0.0063, Accuracy: 99.81%
+2024-11-18 09:07:24,306 - [Transfer] Epoch [1/10], Loss: 0.9139, Accuracy: 76.00%
+2024-11-18 09:07:24,424 - [Transfer] Epoch [2/10], Loss: 0.1535, Accuracy: 94.00%
+2024-11-18 09:07:24,542 - [Transfer] Epoch [3/10], Loss: 0.0791, Accuracy: 97.00%
+2024-11-18 09:07:24,665 - [Transfer] Epoch [4/10], Loss: 0.0194, Accuracy: 100.00%
+2024-11-18 09:07:24,786 - [Transfer] Epoch [5/10], Loss: 0.0133, Accuracy: 100.00%
+2024-11-18 09:07:24,904 - [Transfer] Epoch [6/10], Loss: 0.0107, Accuracy: 100.00%
+2024-11-18 09:07:25,022 - [Transfer] Epoch [7/10], Loss: 0.0087, Accuracy: 100.00%
+2024-11-18 09:07:25,142 - [Transfer] Epoch [8/10], Loss: 0.0076, Accuracy: 100.00%
+2024-11-18 09:07:25,268 - [Transfer] Epoch [9/10], Loss: 0.0064, Accuracy: 100.00%
+2024-11-18 09:07:25,389 - [Transfer] Epoch [10/10], Loss: 0.0056, Accuracy: 100.00%
+2024-11-18 09:07:25,651 - Transfer Test Accuracy: 89.60%
+2024-11-18 09:07:25,858 - Run 6/10
+2024-11-18 09:07:25,859 - Starting transfer learning (run 6)...
+2024-11-18 09:07:33,531 - [Transfer] Epoch [1/10], Loss: 0.1862, Accuracy: 94.23%
+2024-11-18 09:07:41,023 - [Transfer] Epoch [2/10], Loss: 0.0374, Accuracy: 98.84%
+2024-11-18 09:07:48,371 - [Transfer] Epoch [3/10], Loss: 0.0253, Accuracy: 99.20%
+2024-11-18 09:07:55,820 - [Transfer] Epoch [4/10], Loss: 0.0201, Accuracy: 99.40%
+2024-11-18 09:08:03,281 - [Transfer] Epoch [5/10], Loss: 0.0156, Accuracy: 99.48%
+2024-11-18 09:08:10,733 - [Transfer] Epoch [6/10], Loss: 0.0133, Accuracy: 99.53%
+2024-11-18 09:08:18,153 - [Transfer] Epoch [7/10], Loss: 0.0116, Accuracy: 99.62%
+2024-11-18 09:08:25,565 - [Transfer] Epoch [8/10], Loss: 0.0086, Accuracy: 99.74%
+2024-11-18 09:08:32,953 - [Transfer] Epoch [9/10], Loss: 0.0066, Accuracy: 99.81%
+2024-11-18 09:08:40,332 - [Transfer] Epoch [10/10], Loss: 0.0062, Accuracy: 99.79%
+2024-11-18 09:08:40,456 - [Transfer] Epoch [1/10], Loss: 1.0003, Accuracy: 65.00%
+2024-11-18 09:08:40,577 - [Transfer] Epoch [2/10], Loss: 0.1896, Accuracy: 93.00%
+2024-11-18 09:08:40,699 - [Transfer] Epoch [3/10], Loss: 0.0938, Accuracy: 97.00%
+2024-11-18 09:08:40,821 - [Transfer] Epoch [4/10], Loss: 0.0315, Accuracy: 100.00%
+2024-11-18 09:08:40,944 - [Transfer] Epoch [5/10], Loss: 0.0236, Accuracy: 100.00%
+2024-11-18 09:08:41,066 - [Transfer] Epoch [6/10], Loss: 0.0160, Accuracy: 100.00%
+2024-11-18 09:08:41,188 - [Transfer] Epoch [7/10], Loss: 0.0126, Accuracy: 100.00%
+2024-11-18 09:08:41,309 - [Transfer] Epoch [8/10], Loss: 0.0114, Accuracy: 100.00%
+2024-11-18 09:08:41,434 - [Transfer] Epoch [9/10], Loss: 0.0093, Accuracy: 100.00%
+2024-11-18 09:08:41,555 - [Transfer] Epoch [10/10], Loss: 0.0079, Accuracy: 100.00%
+2024-11-18 09:08:41,809 - Transfer Test Accuracy: 91.00%
+2024-11-18 09:08:42,019 - Run 7/10
+2024-11-18 09:08:42,021 - Starting transfer learning (run 7)...
+2024-11-18 09:08:49,417 - [Transfer] Epoch [1/10], Loss: 0.1760, Accuracy: 95.28%
+2024-11-18 09:08:56,839 - [Transfer] Epoch [2/10], Loss: 0.0365, Accuracy: 98.86%
+2024-11-18 09:09:04,271 - [Transfer] Epoch [3/10], Loss: 0.0242, Accuracy: 99.23%
+2024-11-18 09:09:11,726 - [Transfer] Epoch [4/10], Loss: 0.0178, Accuracy: 99.43%
+2024-11-18 09:09:19,241 - [Transfer] Epoch [5/10], Loss: 0.0144, Accuracy: 99.54%
+2024-11-18 09:09:26,701 - [Transfer] Epoch [6/10], Loss: 0.0109, Accuracy: 99.63%
+2024-11-18 09:09:34,159 - [Transfer] Epoch [7/10], Loss: 0.0097, Accuracy: 99.72%
+2024-11-18 09:09:41,626 - [Transfer] Epoch [8/10], Loss: 0.0077, Accuracy: 99.76%
+2024-11-18 09:09:49,081 - [Transfer] Epoch [9/10], Loss: 0.0071, Accuracy: 99.78%
+2024-11-18 09:09:56,529 - [Transfer] Epoch [10/10], Loss: 0.0062, Accuracy: 99.77%
+2024-11-18 09:09:56,661 - [Transfer] Epoch [1/10], Loss: 0.8424, Accuracy: 72.00%
+2024-11-18 09:09:56,792 - [Transfer] Epoch [2/10], Loss: 0.1031, Accuracy: 99.00%
+2024-11-18 09:09:56,923 - [Transfer] Epoch [3/10], Loss: 0.1010, Accuracy: 97.00%
+2024-11-18 09:09:57,054 - [Transfer] Epoch [4/10], Loss: 0.0387, Accuracy: 99.00%
+2024-11-18 09:09:57,184 - [Transfer] Epoch [5/10], Loss: 0.0187, Accuracy: 100.00%
+2024-11-18 09:09:57,314 - [Transfer] Epoch [6/10], Loss: 0.0123, Accuracy: 100.00%
+2024-11-18 09:09:57,442 - [Transfer] Epoch [7/10], Loss: 0.0097, Accuracy: 100.00%
+2024-11-18 09:09:57,571 - [Transfer] Epoch [8/10], Loss: 0.0081, Accuracy: 100.00%
+2024-11-18 09:09:57,700 - [Transfer] Epoch [9/10], Loss: 0.0070, Accuracy: 100.00%
+2024-11-18 09:09:57,831 - [Transfer] Epoch [10/10], Loss: 0.0062, Accuracy: 100.00%
+2024-11-18 09:09:58,086 - Transfer Test Accuracy: 89.70%
+2024-11-18 09:09:58,286 - Run 8/10
+2024-11-18 09:09:58,287 - Starting transfer learning (run 8)...
+2024-11-18 09:10:05,778 - [Transfer] Epoch [1/10], Loss: 0.1613, Accuracy: 95.15%
+2024-11-18 09:10:13,278 - [Transfer] Epoch [2/10], Loss: 0.0340, Accuracy: 98.99%
+2024-11-18 09:10:20,744 - [Transfer] Epoch [3/10], Loss: 0.0266, Accuracy: 99.14%
+2024-11-18 09:10:28,214 - [Transfer] Epoch [4/10], Loss: 0.0199, Accuracy: 99.36%
+2024-11-18 09:10:35,685 - [Transfer] Epoch [5/10], Loss: 0.0159, Accuracy: 99.47%
+2024-11-18 09:10:43,158 - [Transfer] Epoch [6/10], Loss: 0.0123, Accuracy: 99.60%
+2024-11-18 09:10:50,623 - [Transfer] Epoch [7/10], Loss: 0.0098, Accuracy: 99.69%
+2024-11-18 09:10:58,099 - [Transfer] Epoch [8/10], Loss: 0.0072, Accuracy: 99.76%
+2024-11-18 09:11:05,573 - [Transfer] Epoch [9/10], Loss: 0.0062, Accuracy: 99.81%
+2024-11-18 09:11:13,080 - [Transfer] Epoch [10/10], Loss: 0.0067, Accuracy: 99.77%
+2024-11-18 09:11:13,211 - [Transfer] Epoch [1/10], Loss: 0.8037, Accuracy: 74.00%
+2024-11-18 09:11:13,341 - [Transfer] Epoch [2/10], Loss: 0.1692, Accuracy: 92.00%
+2024-11-18 09:11:13,471 - [Transfer] Epoch [3/10], Loss: 0.0727, Accuracy: 98.00%
+2024-11-18 09:11:13,602 - [Transfer] Epoch [4/10], Loss: 0.0223, Accuracy: 100.00%
+2024-11-18 09:11:13,731 - [Transfer] Epoch [5/10], Loss: 0.0143, Accuracy: 100.00%
+2024-11-18 09:11:13,862 - [Transfer] Epoch [6/10], Loss: 0.0118, Accuracy: 100.00%
+2024-11-18 09:11:13,993 - [Transfer] Epoch [7/10], Loss: 0.0096, Accuracy: 100.00%
+2024-11-18 09:11:14,124 - [Transfer] Epoch [8/10], Loss: 0.0080, Accuracy: 100.00%
+2024-11-18 09:11:14,255 - [Transfer] Epoch [9/10], Loss: 0.0071, Accuracy: 100.00%
+2024-11-18 09:11:14,386 - [Transfer] Epoch [10/10], Loss: 0.0060, Accuracy: 100.00%
+2024-11-18 09:11:14,640 - Transfer Test Accuracy: 90.30%
+2024-11-18 09:11:14,999 - Run 9/10
+2024-11-18 09:11:15,001 - Starting transfer learning (run 9)...
+2024-11-18 09:11:22,528 - [Transfer] Epoch [1/10], Loss: 0.1780, Accuracy: 94.55%
+2024-11-18 09:11:30,075 - [Transfer] Epoch [2/10], Loss: 0.0371, Accuracy: 98.87%
+2024-11-18 09:11:37,534 - [Transfer] Epoch [3/10], Loss: 0.0262, Accuracy: 99.20%
+2024-11-18 09:11:44,972 - [Transfer] Epoch [4/10], Loss: 0.0199, Accuracy: 99.39%
+2024-11-18 09:11:52,418 - [Transfer] Epoch [5/10], Loss: 0.0159, Accuracy: 99.48%
+2024-11-18 09:11:59,868 - [Transfer] Epoch [6/10], Loss: 0.0145, Accuracy: 99.53%
+2024-11-18 09:12:07,330 - [Transfer] Epoch [7/10], Loss: 0.0107, Accuracy: 99.67%
+2024-11-18 09:12:14,758 - [Transfer] Epoch [8/10], Loss: 0.0088, Accuracy: 99.73%
+2024-11-18 09:12:22,173 - [Transfer] Epoch [9/10], Loss: 0.0065, Accuracy: 99.80%
+2024-11-18 09:12:29,601 - [Transfer] Epoch [10/10], Loss: 0.0047, Accuracy: 99.86%
+2024-11-18 09:12:29,732 - [Transfer] Epoch [1/10], Loss: 0.7941, Accuracy: 71.00%
+2024-11-18 09:12:29,863 - [Transfer] Epoch [2/10], Loss: 0.1127, Accuracy: 97.00%
+2024-11-18 09:12:29,994 - [Transfer] Epoch [3/10], Loss: 0.0465, Accuracy: 99.00%
+2024-11-18 09:12:30,123 - [Transfer] Epoch [4/10], Loss: 0.0342, Accuracy: 100.00%
+2024-11-18 09:12:30,253 - [Transfer] Epoch [5/10], Loss: 0.0159, Accuracy: 100.00%
+2024-11-18 09:12:30,381 - [Transfer] Epoch [6/10], Loss: 0.0120, Accuracy: 100.00%
+2024-11-18 09:12:30,509 - [Transfer] Epoch [7/10], Loss: 0.0095, Accuracy: 100.00%
+2024-11-18 09:12:30,639 - [Transfer] Epoch [8/10], Loss: 0.0078, Accuracy: 100.00%
+2024-11-18 09:12:30,767 - [Transfer] Epoch [9/10], Loss: 0.0067, Accuracy: 100.00%
+2024-11-18 09:12:30,898 - [Transfer] Epoch [10/10], Loss: 0.0057, Accuracy: 100.00%
+2024-11-18 09:12:31,151 - Transfer Test Accuracy: 89.90%
+2024-11-18 09:12:31,368 - Run 10/10
+2024-11-18 09:12:31,370 - Starting transfer learning (run 10)...
+2024-11-18 09:12:38,817 - [Transfer] Epoch [1/10], Loss: 0.1544, Accuracy: 95.59%
+2024-11-18 09:12:46,246 - [Transfer] Epoch [2/10], Loss: 0.0346, Accuracy: 98.92%
+2024-11-18 09:12:53,714 - [Transfer] Epoch [3/10], Loss: 0.0233, Accuracy: 99.25%
+2024-11-18 09:13:01,155 - [Transfer] Epoch [4/10], Loss: 0.0190, Accuracy: 99.40%
+2024-11-18 09:13:08,579 - [Transfer] Epoch [5/10], Loss: 0.0166, Accuracy: 99.43%
+2024-11-18 09:13:16,026 - [Transfer] Epoch [6/10], Loss: 0.0116, Accuracy: 99.65%
+2024-11-18 09:13:23,472 - [Transfer] Epoch [7/10], Loss: 0.0099, Accuracy: 99.66%
+2024-11-18 09:13:30,903 - [Transfer] Epoch [8/10], Loss: 0.0079, Accuracy: 99.76%
+2024-11-18 09:13:38,340 - [Transfer] Epoch [9/10], Loss: 0.0078, Accuracy: 99.75%
+2024-11-18 09:13:45,833 - [Transfer] Epoch [10/10], Loss: 0.0053, Accuracy: 99.83%
+2024-11-18 09:13:45,962 - [Transfer] Epoch [1/10], Loss: 0.8827, Accuracy: 63.00%
+2024-11-18 09:13:46,093 - [Transfer] Epoch [2/10], Loss: 0.1220, Accuracy: 96.00%
+2024-11-18 09:13:46,224 - [Transfer] Epoch [3/10], Loss: 0.0523, Accuracy: 99.00%
+2024-11-18 09:13:46,353 - [Transfer] Epoch [4/10], Loss: 0.0362, Accuracy: 99.00%
+2024-11-18 09:13:46,480 - [Transfer] Epoch [5/10], Loss: 0.0167, Accuracy: 100.00%
+2024-11-18 09:13:46,610 - [Transfer] Epoch [6/10], Loss: 0.0123, Accuracy: 100.00%
+2024-11-18 09:13:46,741 - [Transfer] Epoch [7/10], Loss: 0.0092, Accuracy: 100.00%
+2024-11-18 09:13:46,871 - [Transfer] Epoch [8/10], Loss: 0.0078, Accuracy: 100.00%
+2024-11-18 09:13:47,002 - [Transfer] Epoch [9/10], Loss: 0.0069, Accuracy: 100.00%
+2024-11-18 09:13:47,132 - [Transfer] Epoch [10/10], Loss: 0.0057, Accuracy: 100.00%
+2024-11-18 09:13:47,384 - Transfer Test Accuracy: 90.50%
+2024-11-18 09:13:47,591 - Running Expanded Dataset Experiment...
+2024-11-18 09:13:47,591 - Run 1/10
+2024-11-18 09:13:48,839 - [Expanded-Dataset] Epoch [1/10], Loss: 0.6348, Accuracy: 77.00%
+2024-11-18 09:13:50,315 - [Expanded-Dataset] Epoch [2/10], Loss: 0.1749, Accuracy: 94.40%
+2024-11-18 09:13:51,801 - [Expanded-Dataset] Epoch [3/10], Loss: 0.0791, Accuracy: 97.60%
+2024-11-18 09:13:53,274 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0364, Accuracy: 99.40%
+2024-11-18 09:13:54,709 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0294, Accuracy: 99.00%
+2024-11-18 09:13:56,149 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0124, Accuracy: 99.80%
+2024-11-18 09:13:57,599 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0042, Accuracy: 100.00%
+2024-11-18 09:13:59,067 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0017, Accuracy: 100.00%
+2024-11-18 09:14:00,510 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0012, Accuracy: 100.00%
+2024-11-18 09:14:01,966 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0009, Accuracy: 100.00%
+2024-11-18 09:14:02,297 - Expanded_dataset Test Accuracy: 95.20%
+2024-11-18 09:14:02,552 - Run 2/10
+2024-11-18 09:14:03,892 - [Expanded-Dataset] Epoch [1/10], Loss: 0.6946, Accuracy: 77.60%
+2024-11-18 09:14:05,331 - [Expanded-Dataset] Epoch [2/10], Loss: 0.1828, Accuracy: 94.60%
+2024-11-18 09:14:06,659 - [Expanded-Dataset] Epoch [3/10], Loss: 0.0835, Accuracy: 97.40%
+2024-11-18 09:14:07,858 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0523, Accuracy: 98.00%
+2024-11-18 09:14:09,057 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0207, Accuracy: 99.60%
+2024-11-18 09:14:10,229 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0068, Accuracy: 100.00%
+2024-11-18 09:14:11,421 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0027, Accuracy: 100.00%
+2024-11-18 09:14:12,657 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0018, Accuracy: 100.00%
+2024-11-18 09:14:14,133 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0012, Accuracy: 100.00%
+2024-11-18 09:14:15,587 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0009, Accuracy: 100.00%
+2024-11-18 09:14:15,917 - Expanded_dataset Test Accuracy: 94.10%
+2024-11-18 09:14:16,173 - Run 3/10
+2024-11-18 09:14:17,404 - [Expanded-Dataset] Epoch [1/10], Loss: 0.6450, Accuracy: 78.60%
+2024-11-18 09:14:18,823 - [Expanded-Dataset] Epoch [2/10], Loss: 0.1793, Accuracy: 94.60%
+2024-11-18 09:14:20,307 - [Expanded-Dataset] Epoch [3/10], Loss: 0.1016, Accuracy: 96.60%
+2024-11-18 09:14:21,773 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0576, Accuracy: 98.20%
+2024-11-18 09:14:23,253 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0289, Accuracy: 99.00%
+2024-11-18 09:14:24,738 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0083, Accuracy: 99.80%
+2024-11-18 09:14:26,216 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0044, Accuracy: 100.00%
+2024-11-18 09:14:27,693 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0017, Accuracy: 100.00%
+2024-11-18 09:14:29,139 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0012, Accuracy: 100.00%
+2024-11-18 09:14:30,625 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0011, Accuracy: 100.00%
+2024-11-18 09:14:30,959 - Expanded_dataset Test Accuracy: 94.20%
+2024-11-18 09:14:31,215 - Run 4/10
+2024-11-18 09:14:32,598 - [Expanded-Dataset] Epoch [1/10], Loss: 0.6490, Accuracy: 76.40%
+2024-11-18 09:14:34,043 - [Expanded-Dataset] Epoch [2/10], Loss: 0.1736, Accuracy: 95.40%
+2024-11-18 09:14:35,535 - [Expanded-Dataset] Epoch [3/10], Loss: 0.0869, Accuracy: 97.00%
+2024-11-18 09:14:37,041 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0435, Accuracy: 98.60%
+2024-11-18 09:14:38,521 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0330, Accuracy: 98.80%
+2024-11-18 09:14:39,993 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0075, Accuracy: 100.00%
+2024-11-18 09:14:41,486 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0031, Accuracy: 100.00%
+2024-11-18 09:14:42,938 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0015, Accuracy: 100.00%
+2024-11-18 09:14:44,423 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0010, Accuracy: 100.00%
+2024-11-18 09:14:45,890 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0007, Accuracy: 100.00%
+2024-11-18 09:14:46,222 - Expanded_dataset Test Accuracy: 95.60%
+2024-11-18 09:14:46,474 - Run 5/10
+2024-11-18 09:14:47,856 - [Expanded-Dataset] Epoch [1/10], Loss: 0.6019, Accuracy: 77.00%
+2024-11-18 09:14:49,326 - [Expanded-Dataset] Epoch [2/10], Loss: 0.1692, Accuracy: 95.20%
+2024-11-18 09:14:50,753 - [Expanded-Dataset] Epoch [3/10], Loss: 0.0862, Accuracy: 97.60%
+2024-11-18 09:14:52,229 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0459, Accuracy: 98.40%
+2024-11-18 09:14:53,690 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0119, Accuracy: 100.00%
+2024-11-18 09:14:55,157 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0146, Accuracy: 99.60%
+2024-11-18 09:14:56,465 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0097, Accuracy: 99.80%
+2024-11-18 09:14:57,681 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0045, Accuracy: 100.00%
+2024-11-18 09:14:58,884 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0012, Accuracy: 100.00%
+2024-11-18 09:15:00,087 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0006, Accuracy: 100.00%
+2024-11-18 09:15:00,466 - Expanded_dataset Test Accuracy: 95.00%
+2024-11-18 09:15:00,732 - Run 6/10
+2024-11-18 09:15:01,914 - [Expanded-Dataset] Epoch [1/10], Loss: 0.6279, Accuracy: 76.60%
+2024-11-18 09:15:03,133 - [Expanded-Dataset] Epoch [2/10], Loss: 0.1587, Accuracy: 95.60%
+2024-11-18 09:15:04,384 - [Expanded-Dataset] Epoch [3/10], Loss: 0.0821, Accuracy: 97.60%
+2024-11-18 09:15:05,634 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0413, Accuracy: 98.60%
+2024-11-18 09:15:06,883 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0199, Accuracy: 99.20%
+2024-11-18 09:15:08,133 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0378, Accuracy: 98.20%
+2024-11-18 09:15:09,384 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0182, Accuracy: 99.40%
+2024-11-18 09:15:10,634 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0023, Accuracy: 100.00%
+2024-11-18 09:15:11,899 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0010, Accuracy: 100.00%
+2024-11-18 09:15:13,147 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0007, Accuracy: 100.00%
+2024-11-18 09:15:13,525 - Expanded_dataset Test Accuracy: 96.00%
+2024-11-18 09:15:13,788 - Run 7/10
+2024-11-18 09:15:14,970 - [Expanded-Dataset] Epoch [1/10], Loss: 0.5864, Accuracy: 79.40%
+2024-11-18 09:15:16,175 - [Expanded-Dataset] Epoch [2/10], Loss: 0.1416, Accuracy: 95.20%
+2024-11-18 09:15:17,382 - [Expanded-Dataset] Epoch [3/10], Loss: 0.0863, Accuracy: 97.00%
+2024-11-18 09:15:18,589 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0322, Accuracy: 99.40%
+2024-11-18 09:15:19,799 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0201, Accuracy: 99.00%
+2024-11-18 09:15:21,036 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0125, Accuracy: 99.60%
+2024-11-18 09:15:22,284 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0039, Accuracy: 100.00%
+2024-11-18 09:15:23,489 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0014, Accuracy: 100.00%
+2024-11-18 09:15:24,710 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0008, Accuracy: 100.00%
+2024-11-18 09:15:25,934 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0005, Accuracy: 100.00%
+2024-11-18 09:15:26,259 - Expanded_dataset Test Accuracy: 94.80%
+2024-11-18 09:15:26,514 - Run 8/10
+2024-11-18 09:15:27,635 - [Expanded-Dataset] Epoch [1/10], Loss: 0.6719, Accuracy: 74.60%
+2024-11-18 09:15:28,857 - [Expanded-Dataset] Epoch [2/10], Loss: 0.1573, Accuracy: 95.00%
+2024-11-18 09:15:30,113 - [Expanded-Dataset] Epoch [3/10], Loss: 0.0925, Accuracy: 96.40%
+2024-11-18 09:15:31,386 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0358, Accuracy: 99.20%
+2024-11-18 09:15:32,662 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0097, Accuracy: 99.80%
+2024-11-18 09:15:33,934 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0100, Accuracy: 99.80%
+2024-11-18 09:15:35,209 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0025, Accuracy: 100.00%
+2024-11-18 09:15:36,482 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0013, Accuracy: 100.00%
+2024-11-18 09:15:37,717 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0009, Accuracy: 100.00%
+2024-11-18 09:15:38,940 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0007, Accuracy: 100.00%
+2024-11-18 09:15:39,264 - Expanded_dataset Test Accuracy: 95.00%
+2024-11-18 09:15:39,531 - Run 9/10
+2024-11-18 09:15:40,660 - [Expanded-Dataset] Epoch [1/10], Loss: 0.6840, Accuracy: 75.60%
+2024-11-18 09:15:41,883 - [Expanded-Dataset] Epoch [2/10], Loss: 0.2376, Accuracy: 93.20%
+2024-11-18 09:15:43,096 - [Expanded-Dataset] Epoch [3/10], Loss: 0.1035, Accuracy: 97.00%
+2024-11-18 09:15:44,380 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0621, Accuracy: 97.40%
+2024-11-18 09:15:45,579 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0242, Accuracy: 99.60%
+2024-11-18 09:15:46,801 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0099, Accuracy: 100.00%
+2024-11-18 09:15:48,023 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0052, Accuracy: 100.00%
+2024-11-18 09:15:49,365 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0024, Accuracy: 100.00%
+2024-11-18 09:15:50,851 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0016, Accuracy: 100.00%
+2024-11-18 09:15:52,341 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0010, Accuracy: 100.00%
+2024-11-18 09:15:52,674 - Expanded_dataset Test Accuracy: 95.40%
+2024-11-18 09:15:52,941 - Run 10/10
+2024-11-18 09:15:54,342 - [Expanded-Dataset] Epoch [1/10], Loss: 0.5840, Accuracy: 78.60%
+2024-11-18 09:15:55,825 - [Expanded-Dataset] Epoch [2/10], Loss: 0.1807, Accuracy: 94.20%
+2024-11-18 09:15:57,326 - [Expanded-Dataset] Epoch [3/10], Loss: 0.0561, Accuracy: 98.60%
+2024-11-18 09:15:58,854 - [Expanded-Dataset] Epoch [4/10], Loss: 0.0317, Accuracy: 98.80%
+2024-11-18 09:16:00,388 - [Expanded-Dataset] Epoch [5/10], Loss: 0.0122, Accuracy: 99.80%
+2024-11-18 09:16:01,926 - [Expanded-Dataset] Epoch [6/10], Loss: 0.0035, Accuracy: 100.00%
+2024-11-18 09:16:03,424 - [Expanded-Dataset] Epoch [7/10], Loss: 0.0014, Accuracy: 100.00%
+2024-11-18 09:16:04,950 - [Expanded-Dataset] Epoch [8/10], Loss: 0.0008, Accuracy: 100.00%
+2024-11-18 09:16:06,477 - [Expanded-Dataset] Epoch [9/10], Loss: 0.0006, Accuracy: 100.00%
+2024-11-18 09:16:07,952 - [Expanded-Dataset] Epoch [10/10], Loss: 0.0005, Accuracy: 100.00%
+2024-11-18 09:16:08,267 - Expanded_dataset Test Accuracy: 95.00%
+2024-11-18 09:16:08,646 - Running LeakyReLU Experiment...
+2024-11-18 09:16:08,646 - Run 1/10
+2024-11-18 09:16:08,820 - [LeakyReLU] Epoch [1/10], Loss: 1.2866, Accuracy: 53.00%
+2024-11-18 09:16:09,005 - [LeakyReLU] Epoch [2/10], Loss: 0.5278, Accuracy: 79.00%
+2024-11-18 09:16:09,227 - [LeakyReLU] Epoch [3/10], Loss: 0.2806, Accuracy: 92.00%
+2024-11-18 09:16:09,462 - [LeakyReLU] Epoch [4/10], Loss: 0.1163, Accuracy: 97.00%
+2024-11-18 09:16:09,705 - [LeakyReLU] Epoch [5/10], Loss: 0.0537, Accuracy: 99.00%
+2024-11-18 09:16:09,949 - [LeakyReLU] Epoch [6/10], Loss: 0.0378, Accuracy: 99.00%
+2024-11-18 09:16:10,192 - [LeakyReLU] Epoch [7/10], Loss: 0.0354, Accuracy: 99.00%
+2024-11-18 09:16:10,432 - [LeakyReLU] Epoch [8/10], Loss: 0.0172, Accuracy: 100.00%
+2024-11-18 09:16:10,677 - [LeakyReLU] Epoch [9/10], Loss: 0.0074, Accuracy: 100.00%
+2024-11-18 09:16:10,923 - [LeakyReLU] Epoch [10/10], Loss: 0.0039, Accuracy: 100.00%
+2024-11-18 09:16:11,249 - Leaky_relu Test Accuracy: 84.80%
+2024-11-18 09:16:11,501 - Run 2/10
+2024-11-18 09:16:11,705 - [LeakyReLU] Epoch [1/10], Loss: 1.3166, Accuracy: 55.00%
+2024-11-18 09:16:11,913 - [LeakyReLU] Epoch [2/10], Loss: 0.4228, Accuracy: 85.00%
+2024-11-18 09:16:12,139 - [LeakyReLU] Epoch [3/10], Loss: 0.2868, Accuracy: 88.00%
+2024-11-18 09:16:12,378 - [LeakyReLU] Epoch [4/10], Loss: 0.1267, Accuracy: 97.00%
+2024-11-18 09:16:12,621 - [LeakyReLU] Epoch [5/10], Loss: 0.0584, Accuracy: 98.00%
+2024-11-18 09:16:12,866 - [LeakyReLU] Epoch [6/10], Loss: 0.0338, Accuracy: 99.00%
+2024-11-18 09:16:13,105 - [LeakyReLU] Epoch [7/10], Loss: 0.0126, Accuracy: 100.00%
+2024-11-18 09:16:13,343 - [LeakyReLU] Epoch [8/10], Loss: 0.0068, Accuracy: 100.00%
+2024-11-18 09:16:13,587 - [LeakyReLU] Epoch [9/10], Loss: 0.0046, Accuracy: 100.00%
+2024-11-18 09:16:13,824 - [LeakyReLU] Epoch [10/10], Loss: 0.0034, Accuracy: 100.00%
+2024-11-18 09:16:14,148 - Leaky_relu Test Accuracy: 85.10%
+2024-11-18 09:16:14,401 - Run 3/10
+2024-11-18 09:16:14,606 - [LeakyReLU] Epoch [1/10], Loss: 1.4063, Accuracy: 37.00%
+2024-11-18 09:16:14,826 - [LeakyReLU] Epoch [2/10], Loss: 0.5356, Accuracy: 83.00%
+2024-11-18 09:16:15,055 - [LeakyReLU] Epoch [3/10], Loss: 0.2312, Accuracy: 94.00%
+2024-11-18 09:16:15,291 - [LeakyReLU] Epoch [4/10], Loss: 0.1290, Accuracy: 97.00%
+2024-11-18 09:16:15,531 - [LeakyReLU] Epoch [5/10], Loss: 0.0527, Accuracy: 99.00%
+2024-11-18 09:16:15,777 - [LeakyReLU] Epoch [6/10], Loss: 0.0331, Accuracy: 100.00%
+2024-11-18 09:16:16,022 - [LeakyReLU] Epoch [7/10], Loss: 0.0153, Accuracy: 100.00%
+2024-11-18 09:16:16,264 - [LeakyReLU] Epoch [8/10], Loss: 0.0082, Accuracy: 100.00%
+2024-11-18 09:16:16,510 - [LeakyReLU] Epoch [9/10], Loss: 0.0040, Accuracy: 100.00%
+2024-11-18 09:16:16,756 - [LeakyReLU] Epoch [10/10], Loss: 0.0032, Accuracy: 100.00%
+2024-11-18 09:16:17,082 - Leaky_relu Test Accuracy: 83.10%
+2024-11-18 09:16:17,348 - Run 4/10
+2024-11-18 09:16:17,551 - [LeakyReLU] Epoch [1/10], Loss: 1.4644, Accuracy: 48.00%
+2024-11-18 09:16:17,773 - [LeakyReLU] Epoch [2/10], Loss: 0.5698, Accuracy: 85.00%
+2024-11-18 09:16:18,007 - [LeakyReLU] Epoch [3/10], Loss: 0.3303, Accuracy: 90.00%
+2024-11-18 09:16:18,245 - [LeakyReLU] Epoch [4/10], Loss: 0.1534, Accuracy: 97.00%
+2024-11-18 09:16:18,487 - [LeakyReLU] Epoch [5/10], Loss: 0.1222, Accuracy: 97.00%
+2024-11-18 09:16:18,733 - [LeakyReLU] Epoch [6/10], Loss: 0.0680, Accuracy: 99.00%
+2024-11-18 09:16:18,977 - [LeakyReLU] Epoch [7/10], Loss: 0.0293, Accuracy: 99.00%
+2024-11-18 09:16:19,222 - [LeakyReLU] Epoch [8/10], Loss: 0.0261, Accuracy: 99.00%
+2024-11-18 09:16:19,467 - [LeakyReLU] Epoch [9/10], Loss: 0.0132, Accuracy: 100.00%
+2024-11-18 09:16:19,709 - [LeakyReLU] Epoch [10/10], Loss: 0.0069, Accuracy: 100.00%
+2024-11-18 09:16:20,035 - Leaky_relu Test Accuracy: 82.90%
+2024-11-18 09:16:20,295 - Run 5/10
+2024-11-18 09:16:20,505 - [LeakyReLU] Epoch [1/10], Loss: 1.2644, Accuracy: 54.00%
+2024-11-18 09:16:20,732 - [LeakyReLU] Epoch [2/10], Loss: 0.4633, Accuracy: 81.00%
+2024-11-18 09:16:20,967 - [LeakyReLU] Epoch [3/10], Loss: 0.1924, Accuracy: 96.00%
+2024-11-18 09:16:21,210 - [LeakyReLU] Epoch [4/10], Loss: 0.0809, Accuracy: 99.00%
+2024-11-18 09:16:21,450 - [LeakyReLU] Epoch [5/10], Loss: 0.0473, Accuracy: 99.00%
+2024-11-18 09:16:21,696 - [LeakyReLU] Epoch [6/10], Loss: 0.0147, Accuracy: 100.00%
+2024-11-18 09:16:21,938 - [LeakyReLU] Epoch [7/10], Loss: 0.0088, Accuracy: 100.00%
+2024-11-18 09:16:22,183 - [LeakyReLU] Epoch [8/10], Loss: 0.0054, Accuracy: 100.00%
+2024-11-18 09:16:22,428 - [LeakyReLU] Epoch [9/10], Loss: 0.0042, Accuracy: 100.00%
+2024-11-18 09:16:22,673 - [LeakyReLU] Epoch [10/10], Loss: 0.0031, Accuracy: 100.00%
+2024-11-18 09:16:22,999 - Leaky_relu Test Accuracy: 82.60%
+2024-11-18 09:16:23,250 - Run 6/10
+2024-11-18 09:16:23,453 - [LeakyReLU] Epoch [1/10], Loss: 1.5918, Accuracy: 29.00%
+2024-11-18 09:16:23,658 - [LeakyReLU] Epoch [2/10], Loss: 0.7832, Accuracy: 78.00%
+2024-11-18 09:16:23,882 - [LeakyReLU] Epoch [3/10], Loss: 0.3498, Accuracy: 91.00%
+2024-11-18 09:16:24,115 - [LeakyReLU] Epoch [4/10], Loss: 0.2294, Accuracy: 95.00%
+2024-11-18 09:16:24,356 - [LeakyReLU] Epoch [5/10], Loss: 0.1243, Accuracy: 98.00%
+2024-11-18 09:16:24,602 - [LeakyReLU] Epoch [6/10], Loss: 0.0849, Accuracy: 99.00%
+2024-11-18 09:16:24,847 - [LeakyReLU] Epoch [7/10], Loss: 0.0537, Accuracy: 99.00%
+2024-11-18 09:16:25,091 - [LeakyReLU] Epoch [8/10], Loss: 0.0290, Accuracy: 99.00%
+2024-11-18 09:16:25,331 - [LeakyReLU] Epoch [9/10], Loss: 0.0205, Accuracy: 100.00%
+2024-11-18 09:16:25,569 - [LeakyReLU] Epoch [10/10], Loss: 0.0195, Accuracy: 99.00%
+2024-11-18 09:16:25,895 - Leaky_relu Test Accuracy: 83.30%
+2024-11-18 09:16:26,171 - Run 7/10
+2024-11-18 09:16:26,373 - [LeakyReLU] Epoch [1/10], Loss: 1.4740, Accuracy: 39.00%
+2024-11-18 09:16:26,574 - [LeakyReLU] Epoch [2/10], Loss: 0.6038, Accuracy: 85.00%
+2024-11-18 09:16:26,774 - [LeakyReLU] Epoch [3/10], Loss: 0.2822, Accuracy: 89.00%
+2024-11-18 09:16:26,992 - [LeakyReLU] Epoch [4/10], Loss: 0.1261, Accuracy: 98.00%
+2024-11-18 09:16:27,225 - [LeakyReLU] Epoch [5/10], Loss: 0.1022, Accuracy: 97.00%
+2024-11-18 09:16:27,460 - [LeakyReLU] Epoch [6/10], Loss: 0.0713, Accuracy: 98.00%
+2024-11-18 09:16:27,704 - [LeakyReLU] Epoch [7/10], Loss: 0.0262, Accuracy: 100.00%
+2024-11-18 09:16:27,951 - [LeakyReLU] Epoch [8/10], Loss: 0.0159, Accuracy: 100.00%
+2024-11-18 09:16:28,196 - [LeakyReLU] Epoch [9/10], Loss: 0.0080, Accuracy: 100.00%
+2024-11-18 09:16:28,441 - [LeakyReLU] Epoch [10/10], Loss: 0.0058, Accuracy: 100.00%
+2024-11-18 09:16:28,766 - Leaky_relu Test Accuracy: 84.70%
+2024-11-18 09:16:29,034 - Run 8/10
+2024-11-18 09:16:29,237 - [LeakyReLU] Epoch [1/10], Loss: 1.4369, Accuracy: 35.00%
+2024-11-18 09:16:29,443 - [LeakyReLU] Epoch [2/10], Loss: 0.5878, Accuracy: 82.00%
+2024-11-18 09:16:29,675 - [LeakyReLU] Epoch [3/10], Loss: 0.2438, Accuracy: 92.00%
+2024-11-18 09:16:29,914 - [LeakyReLU] Epoch [4/10], Loss: 0.1305, Accuracy: 96.00%
+2024-11-18 09:16:30,159 - [LeakyReLU] Epoch [5/10], Loss: 0.1191, Accuracy: 97.00%
+2024-11-18 09:16:30,404 - [LeakyReLU] Epoch [6/10], Loss: 0.0588, Accuracy: 99.00%
+2024-11-18 09:16:30,648 - [LeakyReLU] Epoch [7/10], Loss: 0.0474, Accuracy: 98.00%
+2024-11-18 09:16:30,891 - [LeakyReLU] Epoch [8/10], Loss: 0.0140, Accuracy: 100.00%
+2024-11-18 09:16:31,135 - [LeakyReLU] Epoch [9/10], Loss: 0.0073, Accuracy: 100.00%
+2024-11-18 09:16:31,380 - [LeakyReLU] Epoch [10/10], Loss: 0.0042, Accuracy: 100.00%
+2024-11-18 09:16:31,706 - Leaky_relu Test Accuracy: 84.40%
+2024-11-18 09:16:31,974 - Run 9/10
+2024-11-18 09:16:32,177 - [LeakyReLU] Epoch [1/10], Loss: 1.3544, Accuracy: 44.00%
+2024-11-18 09:16:32,379 - [LeakyReLU] Epoch [2/10], Loss: 0.5126, Accuracy: 84.00%
+2024-11-18 09:16:32,598 - [LeakyReLU] Epoch [3/10], Loss: 0.2505, Accuracy: 96.00%
+2024-11-18 09:16:32,832 - [LeakyReLU] Epoch [4/10], Loss: 0.1262, Accuracy: 99.00%
+2024-11-18 09:16:33,067 - [LeakyReLU] Epoch [5/10], Loss: 0.0616, Accuracy: 99.00%
+2024-11-18 09:16:33,307 - [LeakyReLU] Epoch [6/10], Loss: 0.0393, Accuracy: 99.00%
+2024-11-18 09:16:33,553 - [LeakyReLU] Epoch [7/10], Loss: 0.0168, Accuracy: 100.00%
+2024-11-18 09:16:33,798 - [LeakyReLU] Epoch [8/10], Loss: 0.0078, Accuracy: 100.00%
+2024-11-18 09:16:34,042 - [LeakyReLU] Epoch [9/10], Loss: 0.0058, Accuracy: 100.00%
+2024-11-18 09:16:34,283 - [LeakyReLU] Epoch [10/10], Loss: 0.0041, Accuracy: 100.00%
+2024-11-18 09:16:34,607 - Leaky_relu Test Accuracy: 84.50%
+2024-11-18 09:16:34,870 - Run 10/10
+2024-11-18 09:16:35,073 - [LeakyReLU] Epoch [1/10], Loss: 1.4258, Accuracy: 46.00%
+2024-11-18 09:16:35,271 - [LeakyReLU] Epoch [2/10], Loss: 0.5553, Accuracy: 83.00%
+2024-11-18 09:16:35,480 - [LeakyReLU] Epoch [3/10], Loss: 0.2618, Accuracy: 90.00%
+2024-11-18 09:16:35,661 - [LeakyReLU] Epoch [4/10], Loss: 0.1829, Accuracy: 93.00%
+2024-11-18 09:16:35,857 - [LeakyReLU] Epoch [5/10], Loss: 0.1045, Accuracy: 98.00%
+2024-11-18 09:16:36,058 - [LeakyReLU] Epoch [6/10], Loss: 0.0774, Accuracy: 96.00%
+2024-11-18 09:16:36,257 - [LeakyReLU] Epoch [7/10], Loss: 0.0438, Accuracy: 99.00%
+2024-11-18 09:16:36,457 - [LeakyReLU] Epoch [8/10], Loss: 0.0195, Accuracy: 100.00%
+2024-11-18 09:16:36,658 - [LeakyReLU] Epoch [9/10], Loss: 0.0080, Accuracy: 100.00%
+2024-11-18 09:16:36,859 - [LeakyReLU] Epoch [10/10], Loss: 0.0063, Accuracy: 100.00%
+2024-11-18 09:16:37,154 - Leaky_relu Test Accuracy: 83.10%
+2024-11-18 09:16:37,551 - Running AlexNet Transfer Experiment...
+2024-11-18 09:16:37,551 - Run 1/10
+2024-11-18 09:17:41,430 - [Transfer] Epoch [1/10], Loss: 0.5979, Accuracy: 77.86%
+2024-11-18 09:18:46,744 - [Transfer] Epoch [2/10], Loss: 0.0659, Accuracy: 98.08%
+2024-11-18 09:19:42,287 - [Transfer] Epoch [3/10], Loss: 0.0481, Accuracy: 98.66%
+2024-11-18 09:20:44,534 - [Transfer] Epoch [4/10], Loss: 0.0412, Accuracy: 98.81%
+2024-11-18 09:21:49,821 - [Transfer] Epoch [5/10], Loss: 0.0367, Accuracy: 99.02%
+2024-11-18 09:22:53,730 - [Transfer] Epoch [6/10], Loss: 0.0420, Accuracy: 98.97%
+2024-11-18 09:23:51,053 - [Transfer] Epoch [7/10], Loss: 0.0346, Accuracy: 99.16%
+2024-11-18 09:24:49,369 - [Transfer] Epoch [8/10], Loss: 0.0412, Accuracy: 98.95%
+2024-11-18 09:25:47,009 - [Transfer] Epoch [9/10], Loss: 0.0468, Accuracy: 98.84%
+2024-11-18 09:26:52,338 - [Transfer] Epoch [10/10], Loss: 0.0365, Accuracy: 99.09%
+2024-11-18 09:26:52,767 - [Transfer] Epoch [1/10], Loss: 4.5768, Accuracy: 44.00%
+2024-11-18 09:26:53,162 - [Transfer] Epoch [2/10], Loss: 1.2745, Accuracy: 62.00%
+2024-11-18 09:26:53,634 - [Transfer] Epoch [3/10], Loss: 0.8927, Accuracy: 73.00%
+2024-11-18 09:26:54,049 - [Transfer] Epoch [4/10], Loss: 0.7614, Accuracy: 79.00%
+2024-11-18 09:26:54,488 - [Transfer] Epoch [5/10], Loss: 0.6012, Accuracy: 82.00%
+2024-11-18 09:26:54,908 - [Transfer] Epoch [6/10], Loss: 0.8245, Accuracy: 75.00%
+2024-11-18 09:26:55,328 - [Transfer] Epoch [7/10], Loss: 0.6437, Accuracy: 79.00%
+2024-11-18 09:26:55,813 - [Transfer] Epoch [8/10], Loss: 0.7073, Accuracy: 75.00%
+2024-11-18 09:26:56,233 - [Transfer] Epoch [9/10], Loss: 0.5876, Accuracy: 78.00%
+2024-11-18 09:26:56,664 - [Transfer] Epoch [10/10], Loss: 0.5104, Accuracy: 86.00%
+2024-11-18 09:26:58,725 - Alexnet_transfer Test Accuracy: 77.10%
+2024-11-18 09:26:58,947 - Run 2/10
+2024-11-18 09:28:06,772 - [Transfer] Epoch [1/10], Loss: 0.9117, Accuracy: 64.41%
+2024-11-18 09:29:15,426 - [Transfer] Epoch [2/10], Loss: 0.0845, Accuracy: 97.57%
+2024-11-18 09:30:25,231 - [Transfer] Epoch [3/10], Loss: 0.0418, Accuracy: 98.83%
+2024-11-18 09:31:21,892 - [Transfer] Epoch [4/10], Loss: 0.0392, Accuracy: 98.88%
+2024-11-18 09:32:15,824 - [Transfer] Epoch [5/10], Loss: 0.0262, Accuracy: 99.23%
+2024-11-18 09:33:09,708 - [Transfer] Epoch [6/10], Loss: 0.0320, Accuracy: 99.08%
+2024-11-18 09:34:03,404 - [Transfer] Epoch [7/10], Loss: 0.0299, Accuracy: 99.24%
+2024-11-18 09:34:58,073 - [Transfer] Epoch [8/10], Loss: 0.0339, Accuracy: 99.12%
+2024-11-18 09:35:52,173 - [Transfer] Epoch [9/10], Loss: 0.0350, Accuracy: 99.11%
+2024-11-18 09:36:46,406 - [Transfer] Epoch [10/10], Loss: 0.0276, Accuracy: 99.24%
+2024-11-18 09:36:46,747 - [Transfer] Epoch [1/10], Loss: 3.7148, Accuracy: 28.00%
+2024-11-18 09:36:47,090 - [Transfer] Epoch [2/10], Loss: 0.8388, Accuracy: 73.00%
+2024-11-18 09:36:47,433 - [Transfer] Epoch [3/10], Loss: 0.5040, Accuracy: 77.00%
+2024-11-18 09:36:47,763 - [Transfer] Epoch [4/10], Loss: 0.3691, Accuracy: 86.00%
+2024-11-18 09:36:48,094 - [Transfer] Epoch [5/10], Loss: 0.3469, Accuracy: 86.00%
+2024-11-18 09:36:48,425 - [Transfer] Epoch [6/10], Loss: 0.2938, Accuracy: 91.00%
+2024-11-18 09:36:48,757 - [Transfer] Epoch [7/10], Loss: 0.2901, Accuracy: 89.00%
+2024-11-18 09:36:49,088 - [Transfer] Epoch [8/10], Loss: 0.4806, Accuracy: 91.00%
+2024-11-18 09:36:49,418 - [Transfer] Epoch [9/10], Loss: 0.3527, Accuracy: 87.00%
+2024-11-18 09:36:49,749 - [Transfer] Epoch [10/10], Loss: 0.2023, Accuracy: 94.00%
+2024-11-18 09:36:51,255 - Alexnet_transfer Test Accuracy: 88.60%
+2024-11-18 09:36:51,470 - Run 3/10
+2024-11-18 09:37:54,543 - [Transfer] Epoch [1/10], Loss: 1.6558, Accuracy: 20.90%
+2024-11-18 09:39:03,964 - [Transfer] Epoch [2/10], Loss: 1.6103, Accuracy: 19.52%
+2024-11-18 09:40:12,432 - [Transfer] Epoch [3/10], Loss: 1.6100, Accuracy: 19.97%
+2024-11-18 09:41:07,166 - [Transfer] Epoch [4/10], Loss: 1.6101, Accuracy: 20.09%
+2024-11-18 09:42:00,733 - [Transfer] Epoch [5/10], Loss: 1.6100, Accuracy: 19.96%
+2024-11-18 09:42:54,355 - [Transfer] Epoch [6/10], Loss: 1.6096, Accuracy: 19.92%
+2024-11-18 09:43:48,122 - [Transfer] Epoch [7/10], Loss: 1.6098, Accuracy: 19.56%
+2024-11-18 09:44:42,003 - [Transfer] Epoch [8/10], Loss: 1.6096, Accuracy: 20.10%
+2024-11-18 09:45:35,507 - [Transfer] Epoch [9/10], Loss: 1.6098, Accuracy: 20.10%
+2024-11-18 09:46:30,551 - [Transfer] Epoch [10/10], Loss: 1.6097, Accuracy: 20.01%
+2024-11-18 09:46:30,961 - [Transfer] Epoch [1/10], Loss: 1.6116, Accuracy: 16.00%
+2024-11-18 09:46:31,390 - [Transfer] Epoch [2/10], Loss: 1.6120, Accuracy: 12.00%
+2024-11-18 09:46:31,927 - [Transfer] Epoch [3/10], Loss: 1.6114, Accuracy: 18.00%
+2024-11-18 09:46:32,361 - [Transfer] Epoch [4/10], Loss: 1.6115, Accuracy: 20.00%
+2024-11-18 09:46:32,781 - [Transfer] Epoch [5/10], Loss: 1.6112, Accuracy: 13.00%
+2024-11-18 09:46:33,176 - [Transfer] Epoch [6/10], Loss: 1.6109, Accuracy: 14.00%
+2024-11-18 09:46:33,584 - [Transfer] Epoch [7/10], Loss: 1.6106, Accuracy: 18.00%
+2024-11-18 09:46:34,025 - [Transfer] Epoch [8/10], Loss: 1.6116, Accuracy: 17.00%
+2024-11-18 09:46:34,506 - [Transfer] Epoch [9/10], Loss: 1.6107, Accuracy: 17.00%
+2024-11-18 09:46:34,948 - [Transfer] Epoch [10/10], Loss: 1.6108, Accuracy: 16.00%
+2024-11-18 09:46:37,010 - Alexnet_transfer Test Accuracy: 20.00%
+2024-11-18 09:46:37,238 - Run 4/10
+2024-11-18 09:47:48,226 - [Transfer] Epoch [1/10], Loss: 0.4846, Accuracy: 83.23%
+2024-11-18 09:48:57,961 - [Transfer] Epoch [2/10], Loss: 0.0758, Accuracy: 97.63%
+2024-11-18 09:50:08,509 - [Transfer] Epoch [3/10], Loss: 0.0637, Accuracy: 98.23%
+2024-11-18 09:51:15,161 - [Transfer] Epoch [4/10], Loss: 0.0501, Accuracy: 98.58%
+2024-11-18 09:52:09,811 - [Transfer] Epoch [5/10], Loss: 0.0406, Accuracy: 98.80%
+2024-11-18 09:53:03,659 - [Transfer] Epoch [6/10], Loss: 0.0332, Accuracy: 99.01%
+2024-11-18 09:53:58,098 - [Transfer] Epoch [7/10], Loss: 0.0361, Accuracy: 99.00%
+2024-11-18 09:54:52,395 - [Transfer] Epoch [8/10], Loss: 0.0413, Accuracy: 98.93%
+2024-11-18 09:55:46,564 - [Transfer] Epoch [9/10], Loss: 0.0388, Accuracy: 98.93%
+2024-11-18 09:56:40,747 - [Transfer] Epoch [10/10], Loss: 0.0295, Accuracy: 99.24%
+2024-11-18 09:56:41,091 - [Transfer] Epoch [1/10], Loss: 3.5313, Accuracy: 41.00%
+2024-11-18 09:56:41,470 - [Transfer] Epoch [2/10], Loss: 1.1660, Accuracy: 61.00%
+2024-11-18 09:56:41,842 - [Transfer] Epoch [3/10], Loss: 0.7980, Accuracy: 72.00%
+2024-11-18 09:56:42,216 - [Transfer] Epoch [4/10], Loss: 0.7828, Accuracy: 75.00%
+2024-11-18 09:56:42,606 - [Transfer] Epoch [5/10], Loss: 0.5722, Accuracy: 83.00%
+2024-11-18 09:56:42,975 - [Transfer] Epoch [6/10], Loss: 0.7893, Accuracy: 78.00%
+2024-11-18 09:56:43,344 - [Transfer] Epoch [7/10], Loss: 0.5252, Accuracy: 85.00%
+2024-11-18 09:56:43,716 - [Transfer] Epoch [8/10], Loss: 0.6158, Accuracy: 81.00%
+2024-11-18 09:56:44,055 - [Transfer] Epoch [9/10], Loss: 0.6441, Accuracy: 85.00%
+2024-11-18 09:56:44,395 - [Transfer] Epoch [10/10], Loss: 0.4910, Accuracy: 84.00%
+2024-11-18 09:56:45,825 - Alexnet_transfer Test Accuracy: 87.50%
+2024-11-18 09:56:46,023 - Run 5/10
+2024-11-18 09:57:38,412 - [Transfer] Epoch [1/10], Loss: 0.4194, Accuracy: 85.54%
+2024-11-18 09:58:29,660 - [Transfer] Epoch [2/10], Loss: 0.0631, Accuracy: 98.07%
+2024-11-18 09:59:21,042 - [Transfer] Epoch [3/10], Loss: 0.0459, Accuracy: 98.70%
+2024-11-18 10:00:12,822 - [Transfer] Epoch [4/10], Loss: 0.0354, Accuracy: 99.00%
+2024-11-18 10:01:04,780 - [Transfer] Epoch [5/10], Loss: 0.0324, Accuracy: 99.14%
+2024-11-18 10:01:56,682 - [Transfer] Epoch [6/10], Loss: 0.0448, Accuracy: 98.81%
+2024-11-18 10:02:48,490 - [Transfer] Epoch [7/10], Loss: 0.0366, Accuracy: 99.04%
+2024-11-18 10:03:40,043 - [Transfer] Epoch [8/10], Loss: 0.0306, Accuracy: 99.22%
+2024-11-18 10:04:31,763 - [Transfer] Epoch [9/10], Loss: 0.0374, Accuracy: 99.00%
+2024-11-18 10:05:23,573 - [Transfer] Epoch [10/10], Loss: 0.0447, Accuracy: 98.87%
+2024-11-18 10:05:23,911 - [Transfer] Epoch [1/10], Loss: 2.9210, Accuracy: 36.00%
+2024-11-18 10:05:24,253 - [Transfer] Epoch [2/10], Loss: 0.7644, Accuracy: 73.00%
+2024-11-18 10:05:24,593 - [Transfer] Epoch [3/10], Loss: 0.5729, Accuracy: 80.00%
+2024-11-18 10:05:24,951 - [Transfer] Epoch [4/10], Loss: 0.5414, Accuracy: 82.00%
+2024-11-18 10:05:25,323 - [Transfer] Epoch [5/10], Loss: 0.5144, Accuracy: 80.00%
+2024-11-18 10:05:25,708 - [Transfer] Epoch [6/10], Loss: 0.5273, Accuracy: 82.00%
+2024-11-18 10:05:26,096 - [Transfer] Epoch [7/10], Loss: 0.5942, Accuracy: 84.00%
+2024-11-18 10:05:26,467 - [Transfer] Epoch [8/10], Loss: 0.5681, Accuracy: 79.00%
+2024-11-18 10:05:26,806 - [Transfer] Epoch [9/10], Loss: 0.4117, Accuracy: 85.00%
+2024-11-18 10:05:27,147 - [Transfer] Epoch [10/10], Loss: 0.4094, Accuracy: 89.00%
+2024-11-18 10:05:28,584 - Alexnet_transfer Test Accuracy: 85.10%
+2024-11-18 10:05:28,784 - Run 6/10
+2024-11-18 10:06:26,482 - [Transfer] Epoch [1/10], Loss: 0.4266, Accuracy: 84.62%
+2024-11-18 10:07:32,137 - [Transfer] Epoch [2/10], Loss: 0.0615, Accuracy: 98.23%
+2024-11-18 10:08:24,302 - [Transfer] Epoch [3/10], Loss: 0.0475, Accuracy: 98.55%
+2024-11-18 10:09:16,077 - [Transfer] Epoch [4/10], Loss: 0.0394, Accuracy: 98.88%
+2024-11-18 10:10:08,093 - [Transfer] Epoch [5/10], Loss: 0.0333, Accuracy: 99.09%
+2024-11-18 10:11:00,257 - [Transfer] Epoch [6/10], Loss: 0.0336, Accuracy: 99.08%
+2024-11-18 10:11:52,247 - [Transfer] Epoch [7/10], Loss: 0.0292, Accuracy: 99.23%
+2024-11-18 10:12:43,986 - [Transfer] Epoch [8/10], Loss: 0.0287, Accuracy: 99.15%
+2024-11-18 10:13:35,754 - [Transfer] Epoch [9/10], Loss: 0.0330, Accuracy: 99.15%
+2024-11-18 10:14:27,600 - [Transfer] Epoch [10/10], Loss: 0.0293, Accuracy: 99.29%
+2024-11-18 10:14:27,945 - [Transfer] Epoch [1/10], Loss: 2.5868, Accuracy: 39.00%
+2024-11-18 10:14:28,285 - [Transfer] Epoch [2/10], Loss: 0.7354, Accuracy: 77.00%
+2024-11-18 10:14:28,629 - [Transfer] Epoch [3/10], Loss: 0.6166, Accuracy: 79.00%
+2024-11-18 10:14:28,978 - [Transfer] Epoch [4/10], Loss: 0.4358, Accuracy: 89.00%
+2024-11-18 10:14:29,350 - [Transfer] Epoch [5/10], Loss: 0.4455, Accuracy: 89.00%
+2024-11-18 10:14:29,728 - [Transfer] Epoch [6/10], Loss: 0.3810, Accuracy: 86.00%
+2024-11-18 10:14:30,106 - [Transfer] Epoch [7/10], Loss: 0.2908, Accuracy: 92.00%
+2024-11-18 10:14:30,484 - [Transfer] Epoch [8/10], Loss: 0.3990, Accuracy: 87.00%
+2024-11-18 10:14:30,861 - [Transfer] Epoch [9/10], Loss: 0.3513, Accuracy: 92.00%
+2024-11-18 10:14:31,238 - [Transfer] Epoch [10/10], Loss: 0.2806, Accuracy: 92.00%
+2024-11-18 10:14:32,795 - Alexnet_transfer Test Accuracy: 88.20%
+2024-11-18 10:14:32,991 - Run 7/10
+2024-11-18 10:15:25,311 - [Transfer] Epoch [1/10], Loss: 0.4917, Accuracy: 82.64%
+2024-11-18 10:16:16,961 - [Transfer] Epoch [2/10], Loss: 0.0678, Accuracy: 97.99%
+2024-11-18 10:17:08,638 - [Transfer] Epoch [3/10], Loss: 0.0428, Accuracy: 98.70%
+2024-11-18 10:18:00,328 - [Transfer] Epoch [4/10], Loss: 0.0426, Accuracy: 98.71%
+2024-11-18 10:18:51,864 - [Transfer] Epoch [5/10], Loss: 0.0414, Accuracy: 98.93%
+2024-11-18 10:19:43,151 - [Transfer] Epoch [6/10], Loss: 0.0281, Accuracy: 99.27%
+2024-11-18 10:20:34,399 - [Transfer] Epoch [7/10], Loss: 0.0309, Accuracy: 99.19%
+2024-11-18 10:21:26,715 - [Transfer] Epoch [8/10], Loss: 0.0263, Accuracy: 99.29%
+2024-11-18 10:22:19,263 - [Transfer] Epoch [9/10], Loss: 0.0302, Accuracy: 99.21%
+2024-11-18 10:23:11,070 - [Transfer] Epoch [10/10], Loss: 0.0299, Accuracy: 99.24%
+2024-11-18 10:23:11,410 - [Transfer] Epoch [1/10], Loss: 3.8745, Accuracy: 23.00%
+2024-11-18 10:23:11,755 - [Transfer] Epoch [2/10], Loss: 0.7631, Accuracy: 71.00%
+2024-11-18 10:23:12,100 - [Transfer] Epoch [3/10], Loss: 0.6505, Accuracy: 76.00%
+2024-11-18 10:23:12,463 - [Transfer] Epoch [4/10], Loss: 0.6195, Accuracy: 79.00%
+2024-11-18 10:23:12,808 - [Transfer] Epoch [5/10], Loss: 0.4846, Accuracy: 85.00%
+2024-11-18 10:23:13,148 - [Transfer] Epoch [6/10], Loss: 0.5783, Accuracy: 83.00%
+2024-11-18 10:23:13,488 - [Transfer] Epoch [7/10], Loss: 0.4009, Accuracy: 86.00%
+2024-11-18 10:23:13,827 - [Transfer] Epoch [8/10], Loss: 0.3037, Accuracy: 90.00%
+2024-11-18 10:23:14,165 - [Transfer] Epoch [9/10], Loss: 0.4376, Accuracy: 88.00%
+2024-11-18 10:23:14,504 - [Transfer] Epoch [10/10], Loss: 0.5032, Accuracy: 83.00%
+2024-11-18 10:23:15,937 - Alexnet_transfer Test Accuracy: 86.60%
+2024-11-18 10:23:16,152 - Run 8/10
+2024-11-18 10:24:14,479 - [Transfer] Epoch [1/10], Loss: 1.6614, Accuracy: 20.75%
+2024-11-18 10:25:21,322 - [Transfer] Epoch [2/10], Loss: 1.6104, Accuracy: 19.61%
+2024-11-18 10:26:15,429 - [Transfer] Epoch [3/10], Loss: 1.6099, Accuracy: 19.90%
+2024-11-18 10:27:22,080 - [Transfer] Epoch [4/10], Loss: 1.6098, Accuracy: 19.76%
+2024-11-18 10:28:29,246 - [Transfer] Epoch [5/10], Loss: 1.6097, Accuracy: 20.58%
+2024-11-18 10:29:35,822 - [Transfer] Epoch [6/10], Loss: 1.6097, Accuracy: 20.00%
+2024-11-18 10:31:00,135 - [Transfer] Epoch [7/10], Loss: 1.6098, Accuracy: 19.86%
+2024-11-18 10:32:43,410 - [Transfer] Epoch [8/10], Loss: 1.6098, Accuracy: 20.19%
+2024-11-18 10:34:58,369 - [Transfer] Epoch [9/10], Loss: 1.6097, Accuracy: 19.97%
+2024-11-18 10:37:09,934 - [Transfer] Epoch [10/10], Loss: 1.6097, Accuracy: 19.66%
+2024-11-18 10:37:11,044 - [Transfer] Epoch [1/10], Loss: 1.6112, Accuracy: 12.00%
+2024-11-18 10:37:11,981 - [Transfer] Epoch [2/10], Loss: 1.6108, Accuracy: 17.00%
+2024-11-18 10:37:12,856 - [Transfer] Epoch [3/10], Loss: 1.6108, Accuracy: 20.00%
+2024-11-18 10:37:13,767 - [Transfer] Epoch [4/10], Loss: 1.6106, Accuracy: 19.00%
+2024-11-18 10:37:14,500 - [Transfer] Epoch [5/10], Loss: 1.6104, Accuracy: 17.00%
+2024-11-18 10:37:15,285 - [Transfer] Epoch [6/10], Loss: 1.6108, Accuracy: 14.00%
+2024-11-18 10:37:16,151 - [Transfer] Epoch [7/10], Loss: 1.6102, Accuracy: 20.00%
+2024-11-18 10:37:16,871 - [Transfer] Epoch [8/10], Loss: 1.6105, Accuracy: 20.00%
+2024-11-18 10:37:17,697 - [Transfer] Epoch [9/10], Loss: 1.6110, Accuracy: 12.00%
+2024-11-18 10:37:18,778 - [Transfer] Epoch [10/10], Loss: 1.6117, Accuracy: 13.00%
+2024-11-18 10:37:23,007 - Alexnet_transfer Test Accuracy: 20.00%
+2024-11-18 10:37:23,324 - Run 9/10
+2024-11-18 10:39:12,263 - [Transfer] Epoch [1/10], Loss: 0.8353, Accuracy: 67.31%
+2024-11-18 10:40:58,314 - [Transfer] Epoch [2/10], Loss: 0.0866, Accuracy: 97.39%
+2024-11-18 10:42:28,136 - [Transfer] Epoch [3/10], Loss: 0.0428, Accuracy: 98.71%
+2024-11-18 10:44:44,989 - [Transfer] Epoch [4/10], Loss: 0.0414, Accuracy: 98.85%
+2024-11-18 10:47:06,599 - [Transfer] Epoch [5/10], Loss: 0.0370, Accuracy: 98.96%
+2024-11-18 10:51:09,872 - [Transfer] Epoch [6/10], Loss: 0.0352, Accuracy: 99.03%
+2024-11-18 10:55:09,160 - [Transfer] Epoch [7/10], Loss: 0.0261, Accuracy: 99.20%
+2024-11-18 10:59:12,078 - [Transfer] Epoch [8/10], Loss: 0.0260, Accuracy: 99.25%
+2024-11-18 11:03:09,231 - [Transfer] Epoch [9/10], Loss: 0.0318, Accuracy: 99.11%
+2024-11-18 11:07:06,226 - [Transfer] Epoch [10/10], Loss: 0.0290, Accuracy: 99.22%
+2024-11-18 11:07:07,627 - [Transfer] Epoch [1/10], Loss: 3.1783, Accuracy: 42.00%
+2024-11-18 11:07:09,932 - [Transfer] Epoch [2/10], Loss: 0.7435, Accuracy: 84.00%
+2024-11-18 11:07:11,807 - [Transfer] Epoch [3/10], Loss: 0.5442, Accuracy: 80.00%
+2024-11-18 11:07:13,956 - [Transfer] Epoch [4/10], Loss: 0.5228, Accuracy: 87.00%
+2024-11-18 11:07:15,643 - [Transfer] Epoch [5/10], Loss: 0.6089, Accuracy: 83.00%
+2024-11-18 11:07:17,885 - [Transfer] Epoch [6/10], Loss: 0.3791, Accuracy: 86.00%
+2024-11-18 11:07:20,021 - [Transfer] Epoch [7/10], Loss: 0.3185, Accuracy: 89.00%
+2024-11-18 11:07:21,715 - [Transfer] Epoch [8/10], Loss: 0.3855, Accuracy: 86.00%
+2024-11-18 11:07:23,179 - [Transfer] Epoch [9/10], Loss: 0.4197, Accuracy: 91.00%
+2024-11-18 11:07:24,576 - [Transfer] Epoch [10/10], Loss: 0.4258, Accuracy: 84.00%
+2024-11-18 11:07:29,671 - Alexnet_transfer Test Accuracy: 83.20%
+2024-11-18 11:07:29,914 - Run 10/10
+2024-11-18 11:11:38,798 - [Transfer] Epoch [1/10], Loss: 0.7254, Accuracy: 72.33%
+2024-11-18 11:15:41,530 - [Transfer] Epoch [2/10], Loss: 0.0903, Accuracy: 97.31%
+2024-11-18 11:19:40,665 - [Transfer] Epoch [3/10], Loss: 0.0506, Accuracy: 98.53%
+2024-11-18 11:23:43,262 - [Transfer] Epoch [4/10], Loss: 0.0361, Accuracy: 98.94%
+2024-11-18 11:27:44,522 - [Transfer] Epoch [5/10], Loss: 0.0338, Accuracy: 99.09%
+2024-11-18 11:31:50,837 - [Transfer] Epoch [6/10], Loss: 0.0356, Accuracy: 99.03%
+2024-11-18 11:35:54,841 - [Transfer] Epoch [7/10], Loss: 0.0310, Accuracy: 99.12%
+2024-11-18 11:39:58,186 - [Transfer] Epoch [8/10], Loss: 0.0297, Accuracy: 99.22%
+2024-11-18 11:43:56,543 - [Transfer] Epoch [9/10], Loss: 0.0306, Accuracy: 99.19%
+2024-11-18 11:48:00,252 - [Transfer] Epoch [10/10], Loss: 0.0321, Accuracy: 99.14%
+2024-11-18 11:48:02,342 - [Transfer] Epoch [1/10], Loss: 4.0755, Accuracy: 31.00%
+2024-11-18 11:48:04,588 - [Transfer] Epoch [2/10], Loss: 0.8242, Accuracy: 70.00%
+2024-11-18 11:48:06,152 - [Transfer] Epoch [3/10], Loss: 0.6918, Accuracy: 77.00%
+2024-11-18 11:48:07,604 - [Transfer] Epoch [4/10], Loss: 0.5211, Accuracy: 82.00%
+2024-11-18 11:48:09,151 - [Transfer] Epoch [5/10], Loss: 0.4879, Accuracy: 88.00%
+2024-11-18 11:48:11,021 - [Transfer] Epoch [6/10], Loss: 0.4079, Accuracy: 85.00%
+2024-11-18 11:48:12,295 - [Transfer] Epoch [7/10], Loss: 0.4563, Accuracy: 88.00%
+2024-11-18 11:48:14,263 - [Transfer] Epoch [8/10], Loss: 0.4461, Accuracy: 88.00%
+2024-11-18 11:48:16,210 - [Transfer] Epoch [9/10], Loss: 0.3955, Accuracy: 91.00%
+2024-11-18 11:48:17,960 - [Transfer] Epoch [10/10], Loss: 0.4744, Accuracy: 86.00%
+2024-11-18 11:48:25,157 - Alexnet_transfer Test Accuracy: 90.00%
+2024-11-18 11:48:27,420 - All experiments completed and results saved.
