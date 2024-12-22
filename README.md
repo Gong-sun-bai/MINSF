@@ -119,7 +119,7 @@ Fashion MNIST 数据集包含 10 个类别的灰度图像，每张图像的尺�
    pip install -r requirements.txt
    ```
 
-3. 运行实验：
+3. 运行实验
 
 
 4. 查看结果：训练过程中的损失曲线和准确率曲线将保存在 `results/` 文件夹中。
